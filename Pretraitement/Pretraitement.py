@@ -1,87 +1,57 @@
-import pandas as pd
+import json
 import re
 import spacy
-from collections import Counter
+from tqdm import tqdm
 
 # Charger le modèle français de spaCy
-nlp = spacy.load("fr_core_news_sm")
-
-# Charger les données
-df = pd.read_json('uvbf_data.json')
+nlp = spacy.load('fr_core_news_sm')
 
 def nettoyer_texte(texte):
-    """
-    Nettoie un texte en supprimant les éléments non pertinents
-    """
-    if pd.isna(texte) or texte is None:
+    if not isinstance(texte, str):
         return ""
     
-    # Convertir en minuscules
-    texte = texte.lower()
-    
-    # Supprimer les URLs
-    texte = re.sub(r'http\S+|www\S+', '', texte)
-    
-    # Supprimer les mentions (@)
+    # Suppression des mentions @utilisateur
     texte = re.sub(r'@\w+', '', texte)
-    
-    # Supprimer les hashtags (#)
+    # Suppression des hashtags
     texte = re.sub(r'#\w+', '', texte)
-    
-    # Supprimer les emojis
-    texte = re.sub(r'[^\w\s\']', ' ', texte)
-    
-    # Supprimer les espaces multiples
-    texte = re.sub(r'\s+', ' ', texte).strip()
-    
-    return texte
+    # Suppression des URLs
+    texte = re.sub(r'https?://\S+|www\.\S+', '', texte)
+    # Suppression des caractères spéciaux et de la ponctuation
+    texte = re.sub(r'[^\w\s]', ' ', texte)
+    # Suppression des espaces multiples
+    texte = ' '.join(texte.split())
+    return texte.lower()
 
-def lemmatiser_texte(texte):
-    """
-    Tokenise, supprime les stop words et lemmatise le texte
-    """
-    if not texte:
-        return ""
+def pretraitement_texte(texte):
+    if not isinstance(texte, str) or not texte.strip():
+        return []
     
-    # Traiter avec spaCy
     doc = nlp(texte)
-    
-    # Lemmatisation + suppression des stop words et ponctuation
+    # Lemmatisation et suppression des stop words
     tokens = [token.lemma_ for token in doc 
-              if not token.is_stop and not token.is_punct and len(token.text) > 2]
+              if not token.is_stop and not token.is_punct 
+              and not token.is_space and not token.is_digit
+              and len(token.text) > 2]  # Suppression des mots trop courts
     
-    return ' '.join(tokens)
+    return tokens
 
-def pretraiter_donnees(df, colonne_texte):
-    """
-    Prétraite une colonne de texte du dataframe
-    """
-    # Nettoyer
-    df[f'{colonne_texte}_nettoye'] = df[colonne_texte].apply(nettoyer_texte)
+def main():
+    # Charger les données
+    with open('uvbf_data.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
     
-    # Lemmatiser
-    df[f'{colonne_texte}_lemmatise'] = df[f'{colonne_texte}_nettoye'].apply(lemmatiser_texte)
+    # Prétraitement des données
+    for item in tqdm(data, desc="Traitement des données"):
+        if 'texte' in item:
+            texte_propre = nettoyer_texte(item['texte'])
+            tokens = pretraitement_texte(texte_propre)
+            item['texte_traite'] = ' '.join(tokens)
     
-    return df
+    # Sauvegarder les données prétraitées
+    with open('uvbf_data_pretraitement.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    
+    print("Prétraitement terminé. Les données ont été sauvegardées dans 'uvbf_data_preprocesse.json'")
 
-# Application du prétraitement
-colonnes_a_traiter = [
-    "Qu'est-ce que vous appréciez le plus à l'UV-BF ?",
-    "Quelles sont les principales difficultés ou aspects négatifs que vous rencontrez à l'UV-BF ?"
-]
-
-for colonne in colonnes_a_traiter:
-    if colonne in df.columns:
-        df = pretraiter_donnees(df, colonne)
-        print(f"✓ Colonne '{colonne}' prétraitée")
-
-# Sauvegarder les résultats
-df.to_json('uvbf_data_pretraite.json')
-print("\n✓ Données prétraitées sauvegardées dans 'uvbf_data_pretraite.json'")
-
-# Afficher un exemple
-print("\n=== EXEMPLE DE PRÉTRAITEMENT ===")
-exemple = df.iloc[0]
-print(f"Texte original: {exemple[colonnes_a_traiter[0]][:100]}...")
-print(f"Texte nettoyé: {exemple[colonnes_a_traiter[0] + '_nettoye'][:100]}...")
-print(f"Texte lemmatisé: {exemple[colonnes_a_traiter[0] + '_lemmatise'][:100]}...")
+if __name__ == "__main__":
+    main()
