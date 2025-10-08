@@ -1,0 +1,11 @@
+{
+  "modele_bert": "camembert-base",
+  "classificateur": "Régression Logistique",
+  "exactitude": 0.7833333333333333,
+  "classes": [
+    "negatif",
+    "neutre",
+    "positif"
+  ],
+  "date_entrainement": "2025-10-08T17:40:01.701556"
+}

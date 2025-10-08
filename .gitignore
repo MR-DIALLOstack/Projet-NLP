@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnement virtuel
+virtuel/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Fichiers de données sensibles
+*.pkl
+*.npy
+*.joblib
+
+# Données volumineuses (décommenter si nécessaire)
+# Dataset brute/*.json
+# Pretraitement/*.json
+# vectorisation/*.pkl
+# ameliorations/resultats_bert/bert_embeddings.npy
+
+# Clés API et secrets
+.env
+config/api_keys.json
+*.key
+*.secret
+
+# Logs
+*.log
+logs/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Résultats spécifiques (optionnel)
+# EntrainementModele/resultats/
+# evaluation/resultats_evaluation/
+# rapport/rapport_final/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+

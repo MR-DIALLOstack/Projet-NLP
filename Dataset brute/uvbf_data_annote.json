@@ -1,0 +1,4854 @@
+[
+  {
+    "id": "UVBF_0217",
+    "auteur": "OuédraogoSalimata",
+    "plateforme": "Twitter",
+    "texte": "Malgré la charge de travail, je me sens motivé à l'UVBF.",
+    "date_publication": "2025-09-01 06:22:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 60,
+    "retweets_partages": 45,
+    "commentaires": 18,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048153",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0026",
+    "auteur": "HBarry",
+    "plateforme": "Twitter",
+    "texte": "La manière de dispenser les cours\n",
+    "date_publication": "2025-09-01 08:03:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 84,
+    "retweets_partages": 36,
+    "commentaires": 4,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048183",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0019",
+    "auteur": "Seydou.Sana",
+    "plateforme": "Twitter",
+    "texte": "L'enseignement ",
+    "date_publication": "2025-09-01 09:17:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 34,
+    "retweets_partages": 12,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048191",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0143",
+    "auteur": "Aïcha.Nikièma",
+    "plateforme": "Twitter",
+    "texte": "Ce que j'apprécie c'est d'abord la mise en place des programmes dans différentes filières.En suite la démarche cava ",
+    "date_publication": "2025-09-01 12:58:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 137,
+    "retweets_partages": 22,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048203",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0245",
+    "auteur": "Kadiatou97",
+    "plateforme": "Facebook",
+    "texte": "Merci à l'UVBF pour les opportunités offertes, je suis reconnaissant.",
+    "date_publication": "2025-09-01 13:56:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 24,
+    "retweets_partages": 14,
+    "commentaires": 2,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048212",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0277",
+    "auteur": "MBarro",
+    "plateforme": "Facebook",
+    "texte": "Les étudiants veulent une administration UVBF qui écoute vraiment leurs besoins.",
+    "date_publication": "2025-09-01 14:14:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 137,
+    "retweets_partages": 29,
+    "commentaires": 2,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048222",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0195",
+    "auteur": "BarroZakaria",
+    "plateforme": "Twitter",
+    "texte": "J'ai pu utiliser le nouveau laboratoire informatique de l'UVBF, super équipement.",
+    "date_publication": "2025-09-01 16:33:00",
+    "hashtags": [],
+    "likes": 103,
+    "retweets_partages": 23,
+    "commentaires": 14,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048234",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0215",
+    "auteur": "Ousmane53",
+    "plateforme": "Facebook",
+    "texte": "Trop de monde en amphi, je n'arrive pas à me concentrer, ça me décourage.",
+    "date_publication": "2025-09-01 18:04:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 67,
+    "retweets_partages": 22,
+    "commentaires": 12,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048242",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0100",
+    "auteur": "AdamaZongo",
+    "plateforme": "Twitter",
+    "texte": "La manière de Dispenser les cours et les items des évaluation ",
+    "date_publication": "2025-09-01 19:50:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 123,
+    "retweets_partages": 13,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048250",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0002",
+    "auteur": "AssétouOuédraogo",
+    "plateforme": "Facebook",
+    "texte": "Oui je pense que il ya des failles ! La connexion n'est pas stable, et en plus la qualité du cours n'est pas trop ça !",
+    "date_publication": "2025-09-01 20:07:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 18,
+    "retweets_partages": 13,
+    "commentaires": 25,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048260",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0011",
+    "auteur": "Abdoul_Barry",
+    "plateforme": "Twitter",
+    "texte": "L'université virtuelle offre de nombreux avantages parmi lesquels le fait même que les cours se déroulent en ligne ",
+    "date_publication": "2025-09-01 22:48:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 147,
+    "retweets_partages": 22,
+    "commentaires": 12,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048270",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0095",
+    "auteur": "Safiatou_Ilboudo",
+    "plateforme": "Twitter",
+    "texte": "1- La maîtrise de l'ordinateur, \n2- Un apprenant autonome, \n3- La possibilité de changer de localité en cas d'affectation ou autre.... \n4- La correction de devoirs dans un bref délai",
+    "date_publication": "2025-09-01 22:57:00",
+    "hashtags": [],
+    "likes": 133,
+    "retweets_partages": 16,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048284",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0194",
+    "auteur": "TouréKadiatou",
+    "plateforme": "Facebook",
+    "texte": "Les transports pour venir à l'UVBF sont compliqués le matin.",
+    "date_publication": "2025-09-01 23:04:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 150,
+    "retweets_partages": 11,
+    "commentaires": 5,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048292",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0142",
+    "auteur": "KadiatouSow",
+    "plateforme": "Facebook",
+    "texte": "Cours a distance ",
+    "date_publication": "2025-09-01 23:40:00",
+    "hashtags": [],
+    "likes": 62,
+    "retweets_partages": 9,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048298",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0098",
+    "auteur": "Safiatou.Tapsoba",
+    "plateforme": "Facebook",
+    "texte": "Les cours en ligne même les professionnels peuvent toujours continuer leurs études ",
+    "date_publication": "2025-09-02 02:27:00",
+    "hashtags": [],
+    "likes": 16,
+    "retweets_partages": 32,
+    "commentaires": 17,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048307",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0132",
+    "auteur": "AmadouYé",
+    "plateforme": "Twitter",
+    "texte": "Les cours en ligne ",
+    "date_publication": "2025-09-02 06:09:00",
+    "hashtags": [],
+    "likes": 38,
+    "retweets_partages": 21,
+    "commentaires": 16,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048312",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0257",
+    "auteur": "BBarry",
+    "plateforme": "Facebook",
+    "texte": "L'UVBF me stresse parfois, mais je sais que ça vaut la peine.",
+    "date_publication": "2025-09-02 09:21:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 70,
+    "retweets_partages": 26,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048322",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0184",
+    "auteur": "Mariam_Zoungrana",
+    "plateforme": "Facebook",
+    "texte": "Première semaine à l'UVBF, je suis déjà impressionné par la diversité des clubs étudiants.",
+    "date_publication": "2025-09-02 09:43:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 103,
+    "retweets_partages": 46,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048331",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0021",
+    "auteur": "DjénébaZoungrana",
+    "plateforme": "Twitter",
+    "texte": "La manière de faire le cours ",
+    "date_publication": "2025-09-02 10:20:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 25,
+    "retweets_partages": 44,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048337",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0159",
+    "auteur": "Adama93",
+    "plateforme": "Twitter",
+    "texte": "Leur simplicité, leur patience, leur compréhension, leur gentillesse, leur générosité,leur façon de nous donner les cours est très génial et ils vont à notre rythme .",
+    "date_publication": "2025-09-02 13:34:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 104,
+    "retweets_partages": 3,
+    "commentaires": 0,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048350",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0254",
+    "auteur": "Kadiatou.Cissé",
+    "plateforme": "Facebook",
+    "texte": "Je suis heureux d'avoir choisi l'UVBF, c'est une belle aventure.",
+    "date_publication": "2025-09-02 13:38:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 54,
+    "retweets_partages": 16,
+    "commentaires": 15,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048358",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0246",
+    "auteur": "HamidouSanogo",
+    "plateforme": "Facebook",
+    "texte": "Je suis déçu par le manque de transparence dans les notes à l'UVBF.",
+    "date_publication": "2025-09-02 16:10:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 33,
+    "retweets_partages": 31,
+    "commentaires": 2,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048366",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0270",
+    "auteur": "Djénéba_Zongo",
+    "plateforme": "Twitter",
+    "texte": "Nous attendons un wifi stable à l'UVBF, ça bloque nos recherches.",
+    "date_publication": "2025-09-02 18:44:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 11,
+    "retweets_partages": 37,
+    "commentaires": 11,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048374",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0152",
+    "auteur": "OuattaraAdama",
+    "plateforme": "Facebook",
+    "texte": "La manière dont les cours se font ça me permet d'exercer d'autres activités ",
+    "date_publication": "2025-09-02 20:29:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 121,
+    "retweets_partages": 28,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048382",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0276",
+    "auteur": "Abdoul.Sawadogo",
+    "plateforme": "Facebook",
+    "texte": "On espère plus de partenariats de stage à l'UVBF pour mieux préparer notre avenir.",
+    "date_publication": "2025-09-02 21:32:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 4,
+    "retweets_partages": 26,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048390",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0096",
+    "auteur": "Abdoul_Zoungrana",
+    "plateforme": "Facebook",
+    "texte": "Les 10giga ",
+    "date_publication": "2025-09-02 21:52:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 78,
+    "retweets_partages": 18,
+    "commentaires": 17,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048396",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0075",
+    "auteur": "Moussa.Sanogo",
+    "plateforme": "Facebook",
+    "texte": "Disponibilité des supports de cours, enseignement à distance et le regroupement des évaluations sur une période donnée ",
+    "date_publication": "2025-09-03 04:33:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 35,
+    "retweets_partages": 1,
+    "commentaires": 14,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048408",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0086",
+    "auteur": "OuattaraSalimata",
+    "plateforme": "Twitter",
+    "texte": "L'apprentissage à tempérament et la non contrainte.",
+    "date_publication": "2025-09-03 05:49:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 119,
+    "retweets_partages": 0,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048416",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0074",
+    "auteur": "CompaoréDjénéba",
+    "plateforme": "Twitter",
+    "texte": "Le temps seulement ",
+    "date_publication": "2025-09-03 05:52:00",
+    "hashtags": [],
+    "likes": 148,
+    "retweets_partages": 15,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048421",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0080",
+    "auteur": "BBarry",
+    "plateforme": "Twitter",
+    "texte": "Ce que j’apprécie le plus, c’est la flexibilité offerte par l’université virtuelle. Les cours enregistrés (lorsqu’ils sont disponibles) permettent de travailler à son rythme, les auto-évaluations aident à vérifier sa compréhension, et ce mode d’apprentissage favorise une meilleure organisation personnelle.",
+    "date_publication": "2025-09-03 07:14:00",
+    "hashtags": [],
+    "likes": 69,
+    "retweets_partages": 50,
+    "commentaires": 3,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048443",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0025",
+    "auteur": "Aïcha.Ilboudo",
+    "plateforme": "Facebook",
+    "texte": "La qualité de l’enseignement ",
+    "date_publication": "2025-09-03 09:43:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 109,
+    "retweets_partages": 48,
+    "commentaires": 9,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048451",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0250",
+    "auteur": "Ousmane_Koné",
+    "plateforme": "Twitter",
+    "texte": "Je suis content de mes résultats cette année, merci à l'UVBF.",
+    "date_publication": "2025-09-03 09:50:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 53,
+    "retweets_partages": 31,
+    "commentaires": 6,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048459",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0070",
+    "auteur": "KYé",
+    "plateforme": "Facebook",
+    "texte": "L'initiation des puces de connexion , la disponibilité des enseignants ",
+    "date_publication": "2025-09-03 12:21:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 60,
+    "retweets_partages": 38,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048468",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0269",
+    "auteur": "ASawadogo",
+    "plateforme": "Twitter",
+    "texte": "Je sens que mes compétences s'améliorent grâce à l'UVBF.",
+    "date_publication": "2025-09-03 14:29:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 146,
+    "retweets_partages": 19,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048475",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0247",
+    "auteur": "Ibrahim.Sow",
+    "plateforme": "Facebook",
+    "texte": "Je me sens inspiré chaque jour à l'UVBF.",
+    "date_publication": "2025-09-03 17:47:00",
+    "hashtags": [],
+    "likes": 35,
+    "retweets_partages": 43,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048482",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0208",
+    "auteur": "Aminata.Bancé",
+    "plateforme": "Twitter",
+    "texte": "J'ai parfois l'impression que l'UVBF nous oublie, surtout pour le suivi administratif.",
+    "date_publication": "2025-09-03 22:22:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 97,
+    "retweets_partages": 34,
+    "commentaires": 17,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048490",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0278",
+    "auteur": "Awa_Kaboré",
+    "plateforme": "Twitter",
+    "texte": "Toujours en attente de mes résultats, pourquoi l'administration UVBF met autant de temps ?",
+    "date_publication": "2025-09-03 23:52:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 79,
+    "retweets_partages": 24,
+    "commentaires": 15,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048500",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0211",
+    "auteur": "Hawa10",
+    "plateforme": "Facebook",
+    "texte": "Déçu par la gestion des cours annulés, ça donne une mauvaise image de l'UVBF.",
+    "date_publication": "2025-09-04 00:30:00",
+    "hashtags": [],
+    "likes": 120,
+    "retweets_partages": 49,
+    "commentaires": 15,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048509",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0260",
+    "auteur": "Adama.Barro",
+    "plateforme": "Twitter",
+    "texte": "Je me sens démotivé par la charge de travail à l'UVBF.",
+    "date_publication": "2025-09-04 02:09:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 61,
+    "retweets_partages": 15,
+    "commentaires": 18,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048516",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0280",
+    "auteur": "SouleymaneSawadogo",
+    "plateforme": "Twitter",
+    "texte": "J'aimerais que l'UVBF mette en place une application mobile pour gérer nos inscriptions.",
+    "date_publication": "2025-09-04 04:02:00",
+    "hashtags": [],
+    "likes": 4,
+    "retweets_partages": 35,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048525",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0135",
+    "auteur": "MTraoré",
+    "plateforme": "Facebook",
+    "texte": "Les cours à distance ",
+    "date_publication": "2025-09-04 05:31:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 91,
+    "retweets_partages": 11,
+    "commentaires": 4,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048530",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0145",
+    "auteur": "YéMariama",
+    "plateforme": "Facebook",
+    "texte": "Leurs 10 giga et leurs manières de disposer les cours ",
+    "date_publication": "2025-09-04 07:23:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 9,
+    "retweets_partages": 1,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048538",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0047",
+    "auteur": "KBarro",
+    "plateforme": "Twitter",
+    "texte": "A l'université virtuelle, j'apprécie énormément beaucoup de choses. D'abord, la fomes des cours, c'est à dire le distanciel ( en ligne). Cela est très adaptée à tous types d'étudiants d'autant plus que chacun à le choix de composer dans sa région de préférence tout en réduisant le coût financier à supporter. Aussi à l'université virtuelle, la formation est à la fois théorique et pratique car chaque matière fait l'objet de rendue théorique et de travaux pratiques ( tutorats). A cela, il faut le fait que les enseignants et les étudiants sont proches avec la facilité qui est offerte aux étudiants d'avoir des explications à tous moment avec les titulaires des cours et  les tuteurs sur la plateforme. En plus, l'université virtuelle est unique par la possibilité offerte aux étudiants de traiter les exercices, de les déposer dans les casiers et d'avoir un retour après correction. Ce qui n'existe pas possible dans les autres universités. Pour finir,  l'université virtuelle à sus éviter les retards académique,  toutes choses qui est fort appréciable.",
+    "date_publication": "2025-09-04 10:35:00",
+    "hashtags": [],
+    "likes": 105,
+    "retweets_partages": 7,
+    "commentaires": 16,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048584",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0020",
+    "auteur": "ATraoré",
+    "plateforme": "Facebook",
+    "texte": "La qualité de la formation",
+    "date_publication": "2025-09-04 12:03:00",
+    "hashtags": [],
+    "likes": 149,
+    "retweets_partages": 18,
+    "commentaires": 22,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048591",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0172",
+    "auteur": "BKaboré",
+    "plateforme": "Twitter",
+    "texte": "UVBF mérite plus de visibilité internationale, ses recherches sont excellentes.",
+    "date_publication": "2025-09-04 13:20:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 63,
+    "retweets_partages": 21,
+    "commentaires": 5,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048601",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0263",
+    "auteur": "Bintou51",
+    "plateforme": "Facebook",
+    "texte": "J'aime le soutien entre étudiants, ça rend UVBF spécial.",
+    "date_publication": "2025-09-04 15:02:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 126,
+    "retweets_partages": 7,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048610",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0171",
+    "auteur": "IbrahimKaboré",
+    "plateforme": "Twitter",
+    "texte": "Bravo à l'UVBF pour l'ouverture de la nouvelle faculté de droit !",
+    "date_publication": "2025-09-04 17:26:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 62,
+    "retweets_partages": 16,
+    "commentaires": 5,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048623",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0163",
+    "auteur": "TraoréSalimata",
+    "plateforme": "Facebook",
+    "texte": "Je suis impressionnée par la qualité des professeurs à l'UVBF.",
+    "date_publication": "2025-09-04 18:49:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 97,
+    "retweets_partages": 3,
+    "commentaires": 5,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048633",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0233",
+    "auteur": "AdamaSana",
+    "plateforme": "Twitter",
+    "texte": "UVBF c'est bien, mais la charge de travail est inhumaine parfois.",
+    "date_publication": "2025-09-04 18:57:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 42,
+    "retweets_partages": 48,
+    "commentaires": 6,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048642",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0234",
+    "auteur": "Salimata34",
+    "plateforme": "Twitter",
+    "texte": "Les opportunités de stage à l'UVBF me donnent beaucoup d'espoir.",
+    "date_publication": "2025-09-04 23:45:00",
+    "hashtags": [],
+    "likes": 54,
+    "retweets_partages": 37,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048650",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0199",
+    "auteur": "BarroSafiatou",
+    "plateforme": "Facebook",
+    "texte": "Les étudiants de l'UVBF sont très dynamiques et solidaires.",
+    "date_publication": "2025-09-04 23:56:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 85,
+    "retweets_partages": 2,
+    "commentaires": 19,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048657",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0005",
+    "auteur": "Djénéba_Barry",
+    "plateforme": "Facebook",
+    "texte": "Formidable !  J'apprécie beaucoup ! Il n'y a pas de difficultés en tant que telles!",
+    "date_publication": "2025-09-05 00:35:00",
+    "hashtags": [],
+    "likes": 117,
+    "retweets_partages": 3,
+    "commentaires": 2,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048666",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0266",
+    "auteur": "Bintou56",
+    "plateforme": "Twitter",
+    "texte": "Je me sens tellement fière de faire partie de la famille UVBF.",
+    "date_publication": "2025-09-05 01:00:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 66,
+    "retweets_partages": 14,
+    "commentaires": 19,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048673",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0068",
+    "auteur": "MYé",
+    "plateforme": "Twitter",
+    "texte": "Flexibilité du programme ",
+    "date_publication": "2025-09-05 09:53:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 71,
+    "retweets_partages": 43,
+    "commentaires": 15,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048679",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0273",
+    "auteur": "BancéKarim",
+    "plateforme": "Twitter",
+    "texte": "Nous espérons plus de transparence dans la publication des notes à l'UVBF.",
+    "date_publication": "2025-09-05 10:18:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 111,
+    "retweets_partages": 7,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048688",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0191",
+    "auteur": "Karim_Koné",
+    "plateforme": "Twitter",
+    "texte": "J'ai assisté à un colloque à l'UVBF, très enrichissant et bien organisé.",
+    "date_publication": "2025-09-05 11:38:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 62,
+    "retweets_partages": 46,
+    "commentaires": 16,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048698",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0201",
+    "auteur": "Souleymane_Touré",
+    "plateforme": "Facebook",
+    "texte": "UVBF devrait planter plus d'arbres autour du campus pour l'ombre et l'air pur.",
+    "date_publication": "2025-09-05 13:10:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 47,
+    "retweets_partages": 6,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048708",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0167",
+    "auteur": "Ibrahim_Barro",
+    "plateforme": "Facebook",
+    "texte": "J'aime la proximité entre les enseignants et les étudiants à l'UVBF.",
+    "date_publication": "2025-09-05 13:29:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 84,
+    "retweets_partages": 8,
+    "commentaires": 3,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048716",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0119",
+    "auteur": "Ousmane_Zoungrana",
+    "plateforme": "Facebook",
+    "texte": "La manière dont les prof se fou des étudiants ",
+    "date_publication": "2025-09-05 14:50:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 64,
+    "retweets_partages": 19,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048723",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0097",
+    "auteur": "HYé",
+    "plateforme": "Facebook",
+    "texte": "La dispensation des cours est formidable ",
+    "date_publication": "2025-09-05 15:24:00",
+    "hashtags": [],
+    "likes": 38,
+    "retweets_partages": 23,
+    "commentaires": 10,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048730",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0128",
+    "auteur": "Amadou_Nikièma",
+    "plateforme": "Facebook",
+    "texte": "C est  le temps disponible tous en bossant ",
+    "date_publication": "2025-09-05 16:13:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 50,
+    "retweets_partages": 28,
+    "commentaires": 15,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048736",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0259",
+    "auteur": "Moussa52",
+    "plateforme": "Facebook",
+    "texte": "Malgré les obstacles, je reste déterminé grâce à l'UVBF.",
+    "date_publication": "2025-09-05 21:25:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 117,
+    "retweets_partages": 34,
+    "commentaires": 21,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048744",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0265",
+    "auteur": "OuattaraSeydou",
+    "plateforme": "Twitter",
+    "texte": "Je ne comprends pas pourquoi les salles ne sont jamais assez grandes à l'UVBF.",
+    "date_publication": "2025-09-06 02:19:00",
+    "hashtags": [],
+    "likes": 132,
+    "retweets_partages": 27,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048752",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0059",
+    "auteur": "AïchaTraoré",
+    "plateforme": "Twitter",
+    "texte": "J'apprécie le non virtuel qui nous permet de rester à la maison bosser et en l'octroie de 10 gigas de connexion par moi pour suivre les cours, la subvention des ordinateurs. Les devoirs donc la correction est automatique dans dans la plupart des facultés. ",
+    "date_publication": "2025-09-06 03:53:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 4,
+    "retweets_partages": 21,
+    "commentaires": 19,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048767",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0281",
+    "auteur": "Boureima44",
+    "plateforme": "Twitter",
+    "texte": "Un système de suivi en ligne des dossiers étudiants serait idéal à l'UVBF.",
+    "date_publication": "2025-09-06 07:03:00",
+    "hashtags": [],
+    "likes": 66,
+    "retweets_partages": 27,
+    "commentaires": 8,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048775",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0105",
+    "auteur": "TapsobaMoussa",
+    "plateforme": "Facebook",
+    "texte": "La disponibilité des cours en pdf sur la plateforme,les puces de connexion,la subvention de l'ordinateur.",
+    "date_publication": "2025-09-06 07:42:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 119,
+    "retweets_partages": 14,
+    "commentaires": 23,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048784",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0209",
+    "auteur": "HCissé",
+    "plateforme": "Facebook",
+    "texte": "Trop d'examens en si peu de temps, je suis épuisé à l'UVBF.",
+    "date_publication": "2025-09-06 08:43:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 76,
+    "retweets_partages": 30,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048798",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0023",
+    "auteur": "ZCompaoré",
+    "plateforme": "Facebook",
+    "texte": "Problème de connexion Internet. Problème de fiabilité de la santé plateforme, trop de malhonnête, manque de suivi.... ",
+    "date_publication": "2025-09-06 11:59:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 36,
+    "retweets_partages": 7,
+    "commentaires": 0,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048808",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0035",
+    "auteur": "Fatoumata.Sana",
+    "plateforme": "Twitter",
+    "texte": "L'enseignement ",
+    "date_publication": "2025-09-06 12:05:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 89,
+    "retweets_partages": 25,
+    "commentaires": 3,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048814",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0036",
+    "auteur": "Karim84",
+    "plateforme": "Twitter",
+    "texte": "La manière dont le cours est donné, même si on n'as pas pû suivre le cours avec le professeur on peut toujours soit l'enregistrer ou se contenter des cours en pdf",
+    "date_publication": "2025-09-06 12:14:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 20,
+    "retweets_partages": 24,
+    "commentaires": 13,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048827",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0221",
+    "auteur": "MariamBancé",
+    "plateforme": "Facebook",
+    "texte": "Je suis enthousiaste de voir toutes les opportunités offertes par l'UVBF.",
+    "date_publication": "2025-09-06 15:57:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 42,
+    "retweets_partages": 32,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048835",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0253",
+    "auteur": "AKoné",
+    "plateforme": "Facebook",
+    "texte": "Pression énorme à l'UVBF, j'ai peur de craquer.",
+    "date_publication": "2025-09-06 16:11:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 85,
+    "retweets_partages": 10,
+    "commentaires": 13,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048841",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0022",
+    "auteur": "Yacouba.Diallo",
+    "plateforme": "Facebook",
+    "texte": "L'apprentissage à distance ",
+    "date_publication": "2025-09-06 16:28:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 105,
+    "retweets_partages": 1,
+    "commentaires": 19,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048847",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0028",
+    "auteur": "YéOusmane",
+    "plateforme": "Facebook",
+    "texte": "La façon d'enseigner et le faite que les cours se font en ligne.",
+    "date_publication": "2025-09-06 17:05:00",
+    "hashtags": [],
+    "likes": 117,
+    "retweets_partages": 45,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048855",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0110",
+    "auteur": "MariamaZoungrana",
+    "plateforme": "Twitter",
+    "texte": "Il y a plusieurs siège a ouaga aucun administration dans les autres villes les transports cause problème ",
+    "date_publication": "2025-09-06 18:34:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 21,
+    "retweets_partages": 22,
+    "commentaires": 3,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.048863",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0248",
+    "auteur": "KonéSalimata",
+    "plateforme": "Facebook",
+    "texte": "L'UVBF m'a appris à dépasser mes limites, je suis fière.",
+    "date_publication": "2025-09-06 21:10:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 148,
+    "retweets_partages": 8,
+    "commentaires": 13,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048870",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0069",
+    "auteur": "SKoné",
+    "plateforme": "Twitter",
+    "texte": "La maniére de dispenser les cours ",
+    "date_publication": "2025-09-07 03:50:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 136,
+    "retweets_partages": 6,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048878",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0053",
+    "auteur": "BintouKaboré",
+    "plateforme": "Facebook",
+    "texte": "Merci aux premiers responsables de l'UV-BF.Aux enseignants pour la qualités des cours dispensés.En tant qu'un étudiant particulier c'est très bénéfique.",
+    "date_publication": "2025-09-07 05:01:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 3,
+    "retweets_partages": 19,
+    "commentaires": 10,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048890",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0064",
+    "auteur": "Hawa96",
+    "plateforme": "Twitter",
+    "texte": "La formation en qualité .merci pour ça ",
+    "date_publication": "2025-09-07 05:50:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 149,
+    "retweets_partages": 14,
+    "commentaires": 0,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.048896",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0015",
+    "auteur": "Ibrahim_Zongo",
+    "plateforme": "Facebook",
+    "texte": "La flexibilité de la formation et l'ouverture sur le numérique.",
+    "date_publication": "2025-09-07 06:03:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 144,
+    "retweets_partages": 47,
+    "commentaires": 12,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.048904",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0116",
+    "auteur": "Salimata.Sow",
+    "plateforme": "Facebook",
+    "texte": "Les autres aspects sont plutôt bien ☺️",
+    "date_publication": "2025-09-07 07:11:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 78,
+    "retweets_partages": 41,
+    "commentaires": 13,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049170",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0144",
+    "auteur": "MariamOuattara",
+    "plateforme": "Twitter",
+    "texte": "Le dévouement des enseignants.",
+    "date_publication": "2025-09-07 07:36:00",
+    "hashtags": [],
+    "likes": 30,
+    "retweets_partages": 11,
+    "commentaires": 21,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049189",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0048",
+    "auteur": "Moussa84",
+    "plateforme": "Twitter",
+    "texte": "la composition des devoirs est bien organisée ",
+    "date_publication": "2025-09-07 08:50:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 132,
+    "retweets_partages": 22,
+    "commentaires": 24,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049198",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0012",
+    "auteur": "Assétou63",
+    "plateforme": "Twitter",
+    "texte": "L'université virtuelle offre énormément d'avantages notamment des filières qui sont pour la plupart techniques ",
+    "date_publication": "2025-09-07 10:15:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 134,
+    "retweets_partages": 27,
+    "commentaires": 17,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049209",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0084",
+    "auteur": "Mariama_Camara",
+    "plateforme": "Twitter",
+    "texte": "La qualité de l'enseignement ",
+    "date_publication": "2025-09-07 10:36:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 82,
+    "retweets_partages": 20,
+    "commentaires": 5,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049216",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0188",
+    "auteur": "RasmataZoungrana",
+    "plateforme": "Facebook",
+    "texte": "Encore une panne d'électricité à l'UVBF, on ne peut pas travailler correctement.",
+    "date_publication": "2025-09-07 11:34:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 94,
+    "retweets_partages": 21,
+    "commentaires": 25,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049225",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0102",
+    "auteur": "RasmataTouré",
+    "plateforme": "Facebook",
+    "texte": "Les cours et devoirs",
+    "date_publication": "2025-09-07 14:01:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 64,
+    "retweets_partages": 15,
+    "commentaires": 11,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049236",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0043",
+    "auteur": "Yacouba.Yé",
+    "plateforme": "Facebook",
+    "texte": "Nous apprécions énormément l'engagement des responsables de l'université virtuelle pour le succès des étudiants.Nous apprécions également pour leurs soutiens du côté de la connexion internet au étudiants.",
+    "date_publication": "2025-09-07 15:03:00",
+    "hashtags": [],
+    "likes": 24,
+    "retweets_partages": 17,
+    "commentaires": 15,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049252",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0099",
+    "auteur": "TouréSafiatou",
+    "plateforme": "Facebook",
+    "texte": "La discipline imposé",
+    "date_publication": "2025-09-07 15:26:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 38,
+    "retweets_partages": 21,
+    "commentaires": 14,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049258",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0051",
+    "auteur": "Boureima_Barry",
+    "plateforme": "Facebook",
+    "texte": "La qualité de l'enseignement ",
+    "date_publication": "2025-09-07 18:26:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 27,
+    "retweets_partages": 10,
+    "commentaires": 24,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049264",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0014",
+    "auteur": "Seydou_Sow",
+    "plateforme": "Facebook",
+    "texte": "Pas grand chose",
+    "date_publication": "2025-09-07 19:11:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 137,
+    "retweets_partages": 21,
+    "commentaires": 8,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049269",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0223",
+    "auteur": "ABancé",
+    "plateforme": "Facebook",
+    "texte": "Les frais de scolarité de l'UVBF me stressent énormément.",
+    "date_publication": "2025-09-07 20:53:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 124,
+    "retweets_partages": 7,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049277",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0210",
+    "auteur": "Salimata.Yé",
+    "plateforme": "Twitter",
+    "texte": "Premiers jours stressants mais je sens que je vais adorer cette université.",
+    "date_publication": "2025-09-07 22:09:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 33,
+    "retweets_partages": 25,
+    "commentaires": 25,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049285",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0240",
+    "auteur": "IssoufBarro",
+    "plateforme": "Facebook",
+    "texte": "Je suis tellement fière de représenter l'UVBF dans les compétitions.",
+    "date_publication": "2025-09-07 23:59:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 147,
+    "retweets_partages": 12,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049293",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0040",
+    "auteur": "ASawadogo",
+    "plateforme": "Twitter",
+    "texte": "Personnel rien ",
+    "date_publication": "2025-09-08 00:45:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 62,
+    "retweets_partages": 45,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049299",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0170",
+    "auteur": "Boureima96",
+    "plateforme": "Twitter",
+    "texte": "Encore une grève annoncée à l'UVBF, quelle galère.",
+    "date_publication": "2025-09-08 03:19:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 86,
+    "retweets_partages": 39,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049306",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0087",
+    "auteur": "IssoufSawadogo",
+    "plateforme": "Twitter",
+    "texte": "La flexibilité et la qualité du processus d'apprentissage.",
+    "date_publication": "2025-09-08 07:30:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 106,
+    "retweets_partages": 20,
+    "commentaires": 0,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049317",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0237",
+    "auteur": "BIlboudo",
+    "plateforme": "Facebook",
+    "texte": "Super content de participer à mon premier projet de recherche à l'UVBF.",
+    "date_publication": "2025-09-08 08:39:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 118,
+    "retweets_partages": 36,
+    "commentaires": 23,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049326",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0103",
+    "auteur": "KonéFatima",
+    "plateforme": "Twitter",
+    "texte": "J'apprécie beaucoup leur enseignement  et leur formation .",
+    "date_publication": "2025-09-08 12:17:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 5,
+    "retweets_partages": 27,
+    "commentaires": 13,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049333",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0092",
+    "auteur": "AbdoulCompaoré",
+    "plateforme": "Twitter",
+    "texte": "Oui l'enseignement ",
+    "date_publication": "2025-09-08 12:47:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 10,
+    "retweets_partages": 6,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049339",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0136",
+    "auteur": "ZakariaSana",
+    "plateforme": "Twitter",
+    "texte": "Je suis à l'aise dans cette université c'est vrai que c'est la seule université que j' ai fréquenté mais je suis persuadé que c'est la meilleure de toute les universités du Burkina Faso. Ces 10 méga par mois me permettent de suivre tous les cours sans difficulté. Je suis très très content de l'administration de cette université. ",
+    "date_publication": "2025-09-08 13:21:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 120,
+    "retweets_partages": 1,
+    "commentaires": 22,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049356",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0242",
+    "auteur": "DialloMariama",
+    "plateforme": "Facebook",
+    "texte": "Parfois j'ai envie d'abandonner, mais mes camarades à l'UVBF me motivent.",
+    "date_publication": "2025-09-08 16:41:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 82,
+    "retweets_partages": 22,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049364",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0055",
+    "auteur": "Issouf.Barro",
+    "plateforme": "Facebook",
+    "texte": "-Les cours et les devoirs en ligne constituent un soulagement pour les étudiants.\n- Ça permet aux étudiants de vaquer à d'autres occupations.\n-L'octroie de la connexion \n- La remise des notes automatiquement\n-La subvention des ordinateurs à 80%\n",
+    "date_publication": "2025-09-08 19:16:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 148,
+    "retweets_partages": 27,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049380",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0203",
+    "auteur": "Zakaria55",
+    "plateforme": "Facebook",
+    "texte": "UVBF devrait proposer plus d'activités culturelles internationales.",
+    "date_publication": "2025-09-08 19:40:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 36,
+    "retweets_partages": 7,
+    "commentaires": 13,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049388",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0274",
+    "auteur": "SowAminata",
+    "plateforme": "Facebook",
+    "texte": "Les inscriptions à l'UVBF sont un cauchemar, chaque année la même galère.",
+    "date_publication": "2025-09-08 19:53:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 33,
+    "retweets_partages": 31,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049396",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0126",
+    "auteur": "Kadiatou_Zoungrana",
+    "plateforme": "Facebook",
+    "texte": "La disponibilité et rigueur des professeurs.\nLa disponibilité rapide des notes pour ce qui concerne les évaluations sommative.\nL'accessibilité des professeurs et leurs promptitude à répondre à toutes les inquiétudes des étudiants.\nDes chefs de département courtois et attentifs au besoin des étudiants.\nLa méthode participative des cours ",
+    "date_publication": "2025-09-08 20:18:00",
+    "hashtags": [],
+    "likes": 90,
+    "retweets_partages": 45,
+    "commentaires": 21,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049416",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0154",
+    "auteur": "Aïcha.Cissé",
+    "plateforme": "Twitter",
+    "texte": "L'ensemble du système académique utilisé à l'UV-BF est positivement très appréciable. Et doit être étendu à tous les autres universités du BF car au delà de l'acquisition des connaissances d'études, les étudiants apprennent et utilisent aussi l'informatique et des outils. Ce qui leur ouvre une autre porte que les autres étudiants n'en ont pas cette chance.",
+    "date_publication": "2025-09-08 21:17:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 146,
+    "retweets_partages": 42,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049437",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0284",
+    "auteur": "HOuattara",
+    "plateforme": "Facebook",
+    "texte": "En tant qu'ancien, j'ai remarqué que l'UVBF a fait beaucoup d'efforts mais reste désorganisée.",
+    "date_publication": "2025-09-09 12:07:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 38,
+    "retweets_partages": 2,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049446",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0081",
+    "auteur": "OuattaraAïcha",
+    "plateforme": "Twitter",
+    "texte": "Le fait de pouvoir étudier partout sans forcément être sur place est un vrai avantage. J’apprécie surtout la possibilité de suivre les cours en ligne à mon rythme. \n\n",
+    "date_publication": "2025-09-09 12:35:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 55,
+    "retweets_partages": 2,
+    "commentaires": 20,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049459",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0004",
+    "auteur": "KKoné",
+    "plateforme": "Twitter",
+    "texte": "Rien à dire! J'adore le UV-BF",
+    "date_publication": "2025-09-09 14:57:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 115,
+    "retweets_partages": 0,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049465",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0077",
+    "auteur": "Hamidou.Camara",
+    "plateforme": "Facebook",
+    "texte": "A l'université virtuelle tout est disponible on facilite les études a travers les ordinateurs, la puce de connexion et les cours sont bien expliquer et plus détaillée. ",
+    "date_publication": "2025-09-09 16:49:00",
+    "hashtags": [],
+    "likes": 138,
+    "retweets_partages": 45,
+    "commentaires": 25,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049494",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0166",
+    "auteur": "DialloHamidou",
+    "plateforme": "Facebook",
+    "texte": "Trop de monde dans les amphis à l'UVBF, on a besoin de plus de salles.",
+    "date_publication": "2025-09-09 16:54:00",
+    "hashtags": [],
+    "likes": 10,
+    "retweets_partages": 41,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049503",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0006",
+    "auteur": "AOuattara",
+    "plateforme": "Facebook",
+    "texte": "L'université virtuelle offre pas mal d'avantages notamment le fait de pouvoir suivre les chez soi sans avoir à se déplacer.",
+    "date_publication": "2025-09-09 17:44:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 101,
+    "retweets_partages": 17,
+    "commentaires": 25,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049513",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0228",
+    "auteur": "ZoungranaAminata",
+    "plateforme": "Facebook",
+    "texte": "UVBF m'a donné confiance en mes capacités, je suis reconnaissante.",
+    "date_publication": "2025-09-09 19:12:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 62,
+    "retweets_partages": 29,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049522",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0214",
+    "auteur": "Yacouba.Ilboudo",
+    "plateforme": "Twitter",
+    "texte": "La solidarité entre étudiants à l'UVBF me rend très heureux.",
+    "date_publication": "2025-09-09 22:57:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 41,
+    "retweets_partages": 25,
+    "commentaires": 4,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049529",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0285",
+    "auteur": "Aminata19",
+    "plateforme": "Twitter",
+    "texte": "Les deux dernières années à l'UVBF ont été marquées par une mauvaise gestion administrative.",
+    "date_publication": "2025-09-10 02:29:00",
+    "hashtags": [],
+    "likes": 21,
+    "retweets_partages": 10,
+    "commentaires": 22,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.049538",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0009",
+    "auteur": "Issouf.Ouédraogo",
+    "plateforme": "Twitter",
+    "texte": "Les cours sont flexibles ",
+    "date_publication": "2025-09-10 02:47:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 101,
+    "retweets_partages": 13,
+    "commentaires": 13,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049545",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0239",
+    "auteur": "Yacouba_Traoré",
+    "plateforme": "Facebook",
+    "texte": "Malgré le stress, je garde confiance grâce à mes amis à l'UVBF.",
+    "date_publication": "2025-09-10 10:33:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 137,
+    "retweets_partages": 7,
+    "commentaires": 15,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049553",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0151",
+    "auteur": "Assétou.Barry",
+    "plateforme": "Twitter",
+    "texte": "L'accueil des usagers",
+    "date_publication": "2025-09-10 10:52:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 101,
+    "retweets_partages": 18,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049559",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0218",
+    "auteur": "AmadouSana",
+    "plateforme": "Twitter",
+    "texte": "Parfois je regrette mon choix, j'espérais mieux de l'UVBF.",
+    "date_publication": "2025-09-10 11:45:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 117,
+    "retweets_partages": 29,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049565",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0016",
+    "auteur": "AmadouCompaoré",
+    "plateforme": "Facebook",
+    "texte": "Le déroulement des cours ",
+    "date_publication": "2025-09-10 12:09:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 22,
+    "retweets_partages": 13,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049572",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0001",
+    "auteur": "Issouf47",
+    "plateforme": "Facebook",
+    "texte": "Les cours sont intéressants mais parfois difficiles à suivre à cause des coupures de connexion.",
+    "date_publication": "2025-09-10 12:16:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 104,
+    "retweets_partages": 4,
+    "commentaires": 10,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.049581",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0183",
+    "auteur": "TouréYacouba",
+    "plateforme": "Facebook",
+    "texte": "Je recommande vivement l'UVBF, c'est une université sérieuse et dynamique.",
+    "date_publication": "2025-09-10 13:31:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 36,
+    "retweets_partages": 23,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049589",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0162",
+    "auteur": "ABarry",
+    "plateforme": "Twitter",
+    "texte": " La connexion ",
+    "date_publication": "2025-09-10 15:15:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 20,
+    "retweets_partages": 17,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049594",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0133",
+    "auteur": "MariamaCompaoré",
+    "plateforme": "Facebook",
+    "texte": "La manière d'enseigner ",
+    "date_publication": "2025-09-10 15:58:00",
+    "hashtags": [],
+    "likes": 9,
+    "retweets_partages": 17,
+    "commentaires": 22,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049600",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0140",
+    "auteur": "CompaoréMoussa",
+    "plateforme": "Twitter",
+    "texte": "Selon la connexion je peut dir que c'est une  bonne  solution qu'il nous a faciliter la tâche ,en plus la présence des TD nous permet d'améliorer notre connaissance et poser des questions au tuteurs en cas de difficulté rencontré  lors de notre cours .",
+    "date_publication": "2025-09-10 16:28:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 104,
+    "retweets_partages": 19,
+    "commentaires": 9,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049615",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0283",
+    "auteur": "MKoné",
+    "plateforme": "Twitter",
+    "texte": "Depuis deux ans, je sens que l'UVBF progresse, surtout dans la qualité des cours.",
+    "date_publication": "2025-09-10 17:42:00",
+    "hashtags": [],
+    "likes": 23,
+    "retweets_partages": 2,
+    "commentaires": 2,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049625",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0179",
+    "auteur": "Souleymane.Ilboudo",
+    "plateforme": "Facebook",
+    "texte": "Je compare UVBF avec d'autres universités africaines, elle se défend bien.",
+    "date_publication": "2025-09-10 20:02:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 135,
+    "retweets_partages": 27,
+    "commentaires": 11,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049634",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0061",
+    "auteur": "Ibrahim_Ouédraogo",
+    "plateforme": "Twitter",
+    "texte": "Des enseignants qualifiés ",
+    "date_publication": "2025-09-10 20:13:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 36,
+    "retweets_partages": 46,
+    "commentaires": 11,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049640",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0079",
+    "auteur": "Zakaria.Koné",
+    "plateforme": "Twitter",
+    "texte": "Le que j'arrive à apprendre à mon rythme.",
+    "date_publication": "2025-09-10 20:18:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 6,
+    "retweets_partages": 15,
+    "commentaires": 22,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049647",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0052",
+    "auteur": "Safiatou_Diallo",
+    "plateforme": "Facebook",
+    "texte": "Selon moi c'est la correction souvent la question peut constituer deux ou trois réponses tu trouves une ou deux et y'a pas Demi point pour toi c'est moins bon cela. En plus les mégas ne suffisent pas pour les cours.",
+    "date_publication": "2025-09-10 20:20:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 138,
+    "retweets_partages": 14,
+    "commentaires": 15,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049661",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0111",
+    "auteur": "Fatima.Compaoré",
+    "plateforme": "Twitter",
+    "texte": "Vous n’est inpeu libre parfois ",
+    "date_publication": "2025-09-11 00:34:00",
+    "hashtags": [],
+    "likes": 62,
+    "retweets_partages": 11,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049668",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0065",
+    "auteur": "Awa15",
+    "plateforme": "Twitter",
+    "texte": "Ces la qualité d'informatique ",
+    "date_publication": "2025-09-11 00:55:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 7,
+    "retweets_partages": 21,
+    "commentaires": 10,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049674",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0071",
+    "auteur": "Aminata.Barry",
+    "plateforme": "Twitter",
+    "texte": "La qualité de l'enseignement ",
+    "date_publication": "2025-09-11 04:08:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 48,
+    "retweets_partages": 16,
+    "commentaires": 14,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049681",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0205",
+    "auteur": "Yacouba_Kaboré",
+    "plateforme": "Twitter",
+    "texte": "Le wifi de l'UVBF ne fonctionne presque jamais correctement.",
+    "date_publication": "2025-09-11 04:53:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 149,
+    "retweets_partages": 14,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049688",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0041",
+    "auteur": "Djénéba_Ouattara",
+    "plateforme": "Facebook",
+    "texte": "Cours et devoirs en ligne ",
+    "date_publication": "2025-09-11 06:19:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 132,
+    "retweets_partages": 28,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049694",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0181",
+    "auteur": "AmadouTouré",
+    "plateforme": "Facebook",
+    "texte": "UVBF devrait adopter plus de pratiques écologiques sur le campus.",
+    "date_publication": "2025-09-11 08:19:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 39,
+    "retweets_partages": 6,
+    "commentaires": 20,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049702",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0127",
+    "auteur": "Boureima28",
+    "plateforme": "Facebook",
+    "texte": "Les cours en ligne ",
+    "date_publication": "2025-09-11 09:18:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 125,
+    "retweets_partages": 26,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049707",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0222",
+    "auteur": "Rasmata.Sana",
+    "plateforme": "Twitter",
+    "texte": "Je me sens un peu isolé à l'UVBF, j'espère trouver ma place bientôt.",
+    "date_publication": "2025-09-11 11:20:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 140,
+    "retweets_partages": 23,
+    "commentaires": 18,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049715",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0149",
+    "auteur": "Boureima_Bancé",
+    "plateforme": "Facebook",
+    "texte": "La composition en ligne ",
+    "date_publication": "2025-09-11 12:51:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 7,
+    "retweets_partages": 17,
+    "commentaires": 14,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049721",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0030",
+    "auteur": "BarryKarim",
+    "plateforme": "Twitter",
+    "texte": "Le modèle de l'enseignement, la mise à disposition des supports de cours et la disponibilité des enseignants.",
+    "date_publication": "2025-09-11 14:10:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 23,
+    "retweets_partages": 23,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049730",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0018",
+    "auteur": "YOuédraogo",
+    "plateforme": "Twitter",
+    "texte": "La flexibilité ,tu peux organiser  ton emploi du temps selon ta disponibilité même si les visio sont faits selon la disponibilité des docteurs. l'accessibilité ,tu n'as pas besoin de te déplacer Pour apprendre ,les 10giga même si c'est pas suffisant nous aident beaucoup.",
+    "date_publication": "2025-09-11 14:48:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 135,
+    "retweets_partages": 15,
+    "commentaires": 25,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049746",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0076",
+    "auteur": "SOuédraogo",
+    "plateforme": "Twitter",
+    "texte": "Ce que j'apprécie beaucoup est qu'on peut prendre les cours à distance ce qui est un atout pour les étudiants ",
+    "date_publication": "2025-09-11 17:07:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 107,
+    "retweets_partages": 14,
+    "commentaires": 14,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049755",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0175",
+    "auteur": "Aminata_Bancé",
+    "plateforme": "Facebook",
+    "texte": "J'ai adoré la semaine d'intégration des nouveaux étudiants à l'UVBF.",
+    "date_publication": "2025-09-11 17:58:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 22,
+    "retweets_partages": 17,
+    "commentaires": 25,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049762",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0275",
+    "auteur": "Fatima.Zongo",
+    "plateforme": "Twitter",
+    "texte": "On attend plus de salles de travail à l'UVBF, les bibliothèques sont saturées.",
+    "date_publication": "2025-09-11 18:10:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 72,
+    "retweets_partages": 25,
+    "commentaires": 16,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049770",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0046",
+    "auteur": "Mamadou_Yé",
+    "plateforme": "Facebook",
+    "texte": "La disponibilité des cours à tous moments et à tous temps ",
+    "date_publication": "2025-09-11 18:56:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 82,
+    "retweets_partages": 7,
+    "commentaires": 22,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049777",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0042",
+    "auteur": "FatoumataZoungrana",
+    "plateforme": "Facebook",
+    "texte": "Le cadre de la formation est impeccable \nLa ponctualité des docteurs, leurs déterminations, leur professionnalismes sont remarquables .\nL'université virtuel est mon meilleur choix et je ne regrette pas cela.\nLe dynamisme et la solidarité entre étudiants est fantastique, on priorise l'intérêt de tous et exception.\nConcernant les évaluations des semestres, tout se déroule parfaitement bien ,pas de retard,pas d'imprévu de dernière minute et cela me semble noble.\nDavantage, l'informatique est un organe bien déterminant et important,favorisant tous un saveur à bien la maîtriser .\nL'université virtuel est la meilleure formation et se distingue de certaines par ses compétences et sa structuration.",
+    "date_publication": "2025-09-11 21:47:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 44,
+    "retweets_partages": 24,
+    "commentaires": 15,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049811",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0232",
+    "auteur": "CisséHamidou",
+    "plateforme": "Facebook",
+    "texte": "J'ai du mal à gérer la pression académique, mais je reste motivée.",
+    "date_publication": "2025-09-11 22:35:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 101,
+    "retweets_partages": 12,
+    "commentaires": 14,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049820",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0216",
+    "auteur": "Salimata.Kaboré",
+    "plateforme": "Twitter",
+    "texte": "Je suis reconnaissant envers mes professeurs à l'UVBF, toujours disponibles.",
+    "date_publication": "2025-09-11 22:58:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 149,
+    "retweets_partages": 19,
+    "commentaires": 16,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049829",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0008",
+    "auteur": "Seydou_Sanogo",
+    "plateforme": "Twitter",
+    "texte": "L'enseignement est de qualité à l'uv",
+    "date_publication": "2025-09-12 01:59:00",
+    "hashtags": [],
+    "likes": 47,
+    "retweets_partages": 16,
+    "commentaires": 0,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049836",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0013",
+    "auteur": "Zakaria22",
+    "plateforme": "Facebook",
+    "texte": "La facilité d'accès aux cours",
+    "date_publication": "2025-09-12 02:33:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 39,
+    "retweets_partages": 9,
+    "commentaires": 21,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049843",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0114",
+    "auteur": "TouréMamadou",
+    "plateforme": "Twitter",
+    "texte": "L'initiative est bonne mais beaucoup de défis a relever ",
+    "date_publication": "2025-09-12 07:04:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 64,
+    "retweets_partages": 13,
+    "commentaires": 11,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049852",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0174",
+    "auteur": "Abdoul_Bancé",
+    "plateforme": "Facebook",
+    "texte": "Les laboratoires de l'UVBF manquent parfois de matériel moderne.",
+    "date_publication": "2025-09-12 16:29:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 148,
+    "retweets_partages": 9,
+    "commentaires": 9,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.049861",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0088",
+    "auteur": "Djénéba_Ouattara",
+    "plateforme": "Facebook",
+    "texte": "À l'université virtuelle du Burkina nous constatons qu'il n'y pas de retard et les cours sont bien dispensé par les différents docteur.",
+    "date_publication": "2025-09-12 16:32:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 86,
+    "retweets_partages": 23,
+    "commentaires": 25,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049871",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0279",
+    "auteur": "Abdoul10",
+    "plateforme": "Facebook",
+    "texte": "On aimerait que les enseignants respectent mieux l'emploi du temps à l'UVBF.",
+    "date_publication": "2025-09-12 19:59:00",
+    "hashtags": [],
+    "likes": 66,
+    "retweets_partages": 41,
+    "commentaires": 19,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049880",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0282",
+    "auteur": "Aminata_Sawadogo",
+    "plateforme": "Twitter",
+    "texte": "Comme parent, je souhaite que l'UVBF accompagne mieux nos enfants psychologiquement.",
+    "date_publication": "2025-09-12 21:07:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 129,
+    "retweets_partages": 37,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049887",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0197",
+    "auteur": "Amadou.Ilboudo",
+    "plateforme": "Facebook",
+    "texte": "UVBF doit revoir son système administratif, trop lent et compliqué.",
+    "date_publication": "2025-09-12 22:19:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 61,
+    "retweets_partages": 45,
+    "commentaires": 2,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.049895",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0033",
+    "auteur": "TouréAïcha",
+    "plateforme": "Twitter",
+    "texte": "Les cours se passent bien,le fait même que nous suivons les cours en ligne est déjà un avantage ",
+    "date_publication": "2025-09-13 01:14:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 57,
+    "retweets_partages": 13,
+    "commentaires": 6,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049904",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0129",
+    "auteur": "SSana",
+    "plateforme": "Facebook",
+    "texte": "Les cours en ligne.",
+    "date_publication": "2025-09-13 07:59:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 125,
+    "retweets_partages": 1,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049909",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0003",
+    "auteur": "ZYé",
+    "plateforme": "Twitter",
+    "texte": "L'université virtuelle du Burkina Faso, est une université de qualité, car elle permet non seulement de suivre les cours en temps aupportun et aussi partout où l'on se trouve, c'est déjà une qualité appréciable.\nLe virtuel nous aide à suivre nos différents cours sans à se déplacer comme ceux du présentiel, c'est un atout considérable pour toute la jeunesse burkinabè.\nElle permet également la formation de qualité car c'est devenu une université autonome et même s'il ya des défis à relever elle est cependant un poids positif pour la bonne formation des étudiants de ladite société.\nNous espérons dans un futur proche qu'il y aura plusieurs universités virtuelles un peu partout dans toutes les régions et pourquoi pas dans des provinces.\nVive l'université virtuelle pour une formation de qualité qui constituera un nouveau poids pour épauler la jeunesse.",
+    "date_publication": "2025-09-13 10:27:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 65,
+    "retweets_partages": 30,
+    "commentaires": 11,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.049948",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0190",
+    "auteur": "Kadiatou_Zongo",
+    "plateforme": "Twitter",
+    "texte": "UVBF doit améliorer sa communication en ligne, les infos arrivent trop tard.",
+    "date_publication": "2025-09-13 10:42:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 10,
+    "retweets_partages": 11,
+    "commentaires": 11,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049957",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0027",
+    "auteur": "Awa_Compaoré",
+    "plateforme": "Twitter",
+    "texte": "Ce que j'apprécie ces l'effort des professeurs pour la compréhension des cours.ils prennent leur temps pour expliquer sauf que si tu est discret ou paresseux.",
+    "date_publication": "2025-09-13 11:24:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 5,
+    "retweets_partages": 15,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049970",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0225",
+    "auteur": "TapsobaAminata",
+    "plateforme": "Twitter",
+    "texte": "Je crois en mon avenir grâce aux opportunités offertes par l'UVBF.",
+    "date_publication": "2025-09-13 12:05:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 33,
+    "retweets_partages": 46,
+    "commentaires": 8,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049977",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0202",
+    "auteur": "BarryIssouf",
+    "plateforme": "Twitter",
+    "texte": "L'accueil au service scolarité de l'UVBF est toujours souriant et efficace.",
+    "date_publication": "2025-09-13 14:07:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 137,
+    "retweets_partages": 44,
+    "commentaires": 11,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.049995",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0196",
+    "auteur": "Moussa_Tapsoba",
+    "plateforme": "Twitter",
+    "texte": "UVBF devrait proposer plus de stages à l'étranger pour ses étudiants.",
+    "date_publication": "2025-09-13 14:20:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 15,
+    "retweets_partages": 2,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050004",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0060",
+    "auteur": "Kadiatou.Camara",
+    "plateforme": "Twitter",
+    "texte": "J'apprécie le non virtuel qui nous permet de rester à la maison bosser et en l'octroie de 10 gigas de connexion par moi pour suivre les cours, la subvention des ordinateurs. Les devoirs donc la correction est automatique dans la plupart des facultés. ",
+    "date_publication": "2025-09-13 16:22:00",
+    "hashtags": [],
+    "likes": 110,
+    "retweets_partages": 26,
+    "commentaires": 8,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050020",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0113",
+    "auteur": "ZTouré",
+    "plateforme": "Twitter",
+    "texte": "Leur manière d'enseigner sa amene vraiment l'étudiant à réfléchir .",
+    "date_publication": "2025-09-13 17:07:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 12,
+    "retweets_partages": 14,
+    "commentaires": 13,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050027",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0017",
+    "auteur": "RSawadogo",
+    "plateforme": "Facebook",
+    "texte": "L'insuffisance de connexion \nMauvais algorithme de correction lors des devoirs en ligne \n",
+    "date_publication": "2025-09-13 17:39:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 92,
+    "retweets_partages": 9,
+    "commentaires": 13,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.050035",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0139",
+    "auteur": "MariamaBarry",
+    "plateforme": "Twitter",
+    "texte": "On est fier d'appartenir à cette université : le professeur dispense le cours, fait tutorat, forum ouvert  avant les évaluations , c'est salutaire . Le don des mégas .  Certains professeurs patriotes font un travail formidable  lors des visio- conférences. ",
+    "date_publication": "2025-09-13 17:41:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 11,
+    "retweets_partages": 41,
+    "commentaires": 13,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050051",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0038",
+    "auteur": "Aïcha52",
+    "plateforme": "Twitter",
+    "texte": "J'apprécie quand on dépose les cours assez tôt sur la plateforme ",
+    "date_publication": "2025-09-13 18:46:00",
+    "hashtags": [],
+    "likes": 80,
+    "retweets_partages": 17,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050059",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0157",
+    "auteur": "NikièmaSafiatou",
+    "plateforme": "Facebook",
+    "texte": "l'absence de pression permettant de vaquer à certaines occupations où d'acquérir des compétence liées à nos différentes filière",
+    "date_publication": "2025-09-13 19:03:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 100,
+    "retweets_partages": 4,
+    "commentaires": 23,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050070",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0039",
+    "auteur": "SawadogoAminata",
+    "plateforme": "Facebook",
+    "texte": "La manière de donner les formations ",
+    "date_publication": "2025-09-13 19:13:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 21,
+    "retweets_partages": 25,
+    "commentaires": 17,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050076",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0066",
+    "auteur": "AssétouBarro",
+    "plateforme": "Twitter",
+    "texte": "Les cours se passent dans les bonnes conditions avec les docteurs et les tuteurs aussi car nos docteurs sont très motivés à faire les cours avec nous.",
+    "date_publication": "2025-09-13 22:20:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 4,
+    "retweets_partages": 11,
+    "commentaires": 2,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050088",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0094",
+    "auteur": "Hawa71",
+    "plateforme": "Facebook",
+    "texte": "\n\nJ'apprécie beaucoup l'Université Virtuelle du Burkina. Grâce à ses formations innovantes, accessibles et adaptées aux réalités actuelles, elle offre à chaque étudiant la possibilité de se former avec qualité, flexibilité et ambition. Une université moderne au service du développement du pays.",
+    "date_publication": "2025-09-13 22:22:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 45,
+    "retweets_partages": 26,
+    "commentaires": 7,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050105",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0262",
+    "auteur": "TouréBoureima",
+    "plateforme": "Facebook",
+    "texte": "Chaque jour à l'UVBF est une nouvelle aventure, je me sens grandi.",
+    "date_publication": "2025-09-13 22:32:00",
+    "hashtags": [],
+    "likes": 144,
+    "retweets_partages": 9,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050113",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0180",
+    "auteur": "ZongoMoussa",
+    "plateforme": "Facebook",
+    "texte": "La cafétéria de l'UVBF propose enfin des plats plus variés.",
+    "date_publication": "2025-09-14 00:04:00",
+    "hashtags": [],
+    "likes": 131,
+    "retweets_partages": 26,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050121",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0230",
+    "auteur": "Boureima_Diallo",
+    "plateforme": "Facebook",
+    "texte": "J'ai rarement été aussi satisfait d'un cours que cette année à l'UVBF.",
+    "date_publication": "2025-09-14 00:40:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 116,
+    "retweets_partages": 17,
+    "commentaires": 10,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050130",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0123",
+    "auteur": "AssétouSana",
+    "plateforme": "Twitter",
+    "texte": "Enseignement flexible. Note immédiatement disponible après chaque évaluation",
+    "date_publication": "2025-09-14 04:19:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 86,
+    "retweets_partages": 25,
+    "commentaires": 17,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050139",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0252",
+    "auteur": "CisséBintou",
+    "plateforme": "Facebook",
+    "texte": "Je ressens une vraie fierté d'appartenir à l'UVBF.",
+    "date_publication": "2025-09-14 06:03:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 16,
+    "retweets_partages": 47,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050146",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0235",
+    "auteur": "SZoungrana",
+    "plateforme": "Twitter",
+    "texte": "Je me sens perdu avec toutes les matières à l'UVBF.",
+    "date_publication": "2025-09-14 08:15:00",
+    "hashtags": [],
+    "likes": 126,
+    "retweets_partages": 20,
+    "commentaires": 13,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050170",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0219",
+    "auteur": "Ousmane_Camara",
+    "plateforme": "Facebook",
+    "texte": "La vie associative à l'UVBF me rend tellement fier d'être étudiant ici.",
+    "date_publication": "2025-09-14 09:07:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 63,
+    "retweets_partages": 6,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050179",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0150",
+    "auteur": "Ibrahim.Sow",
+    "plateforme": "Twitter",
+    "texte": "La composition en ligne et la disponibilisation des notes spontanément ",
+    "date_publication": "2025-09-14 12:35:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 86,
+    "retweets_partages": 13,
+    "commentaires": 22,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050187",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0050",
+    "auteur": "Fatoumata_Koné",
+    "plateforme": "Facebook",
+    "texte": "Je ne sait vraiment pas",
+    "date_publication": "2025-09-14 13:01:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 33,
+    "retweets_partages": 29,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050193",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0147",
+    "auteur": "AïchaBarro",
+    "plateforme": "Facebook",
+    "texte": "La qualité de la formation ",
+    "date_publication": "2025-09-14 16:25:00",
+    "hashtags": [],
+    "likes": 109,
+    "retweets_partages": 46,
+    "commentaires": 19,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050199",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0220",
+    "auteur": "TapsobaMamadou",
+    "plateforme": "Twitter",
+    "texte": "Stress total avec les examens, mais heureusement mes amis de l'UVBF m'aident.",
+    "date_publication": "2025-09-14 17:02:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 47,
+    "retweets_partages": 27,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050207",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0227",
+    "auteur": "YSana",
+    "plateforme": "Facebook",
+    "texte": "Je suis exténué mais heureux de progresser à l'UVBF.",
+    "date_publication": "2025-09-14 17:02:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 97,
+    "retweets_partages": 12,
+    "commentaires": 25,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050214",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0072",
+    "auteur": "ZakariaBarry",
+    "plateforme": "Twitter",
+    "texte": "Les 10go  sont  très  faibles  pour  suivre les cours ",
+    "date_publication": "2025-09-14 17:33:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 68,
+    "retweets_partages": 37,
+    "commentaires": 20,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050223",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0231",
+    "auteur": "Yacouba.Sanogo",
+    "plateforme": "Twitter",
+    "texte": "Tellement fier d'appartenir à l'UVBF, on est une vraie communauté.",
+    "date_publication": "2025-09-14 21:31:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 123,
+    "retweets_partages": 50,
+    "commentaires": 15,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050231",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0090",
+    "auteur": "Seydou_Sow",
+    "plateforme": "Twitter",
+    "texte": "La filière que je fais a savoir la géomatique ",
+    "date_publication": "2025-09-14 22:54:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 145,
+    "retweets_partages": 16,
+    "commentaires": 3,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050238",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0007",
+    "auteur": "IbrahimSow",
+    "plateforme": "Twitter",
+    "texte": "La manière de dispenser le cour en ligne",
+    "date_publication": "2025-09-14 23:00:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 117,
+    "retweets_partages": 22,
+    "commentaires": 23,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050245",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0058",
+    "auteur": "Adama70",
+    "plateforme": "Twitter",
+    "texte": "Le dévouement, l'engagement et la disponibilité des Enseignants ainsi que le corps Administratif qui nous fourni une formation de qualité et en continue sans retard. Nous avons également l'accessibilité à la bonne information ainsi que la prise en compte et le traitement rapide des différents difficulté que rencontrent les étudiants. Nous pouvons aussi noter une amélioration constante de certains aspects.",
+    "date_publication": "2025-09-15 03:24:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 145,
+    "retweets_partages": 3,
+    "commentaires": 5,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050267",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0067",
+    "auteur": "Safiatou_Ouédraogo",
+    "plateforme": "Facebook",
+    "texte": "L'UV est la solution future de l'enseignement supérieur burkinabé . C'est une belle initiative que j'adhère totalement ca fait pour moi une fierté d'apppartenance à cette institution de demain",
+    "date_publication": "2025-09-15 04:05:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 82,
+    "retweets_partages": 20,
+    "commentaires": 21,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050282",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0056",
+    "auteur": "Djénéba.Bancé",
+    "plateforme": "Twitter",
+    "texte": "J'apprécie vraiment la subvention des puces de connexion, en plus les cours sont bien dispensés par les enseignants.",
+    "date_publication": "2025-09-15 04:49:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 139,
+    "retweets_partages": 29,
+    "commentaires": 13,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050296",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0189",
+    "auteur": "Boureima.Sana",
+    "plateforme": "Twitter",
+    "texte": "La bibliothèque digitale de l'UVBF est vraiment pratique, j'adore.",
+    "date_publication": "2025-09-15 08:25:00",
+    "hashtags": [],
+    "likes": 71,
+    "retweets_partages": 5,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050305",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0198",
+    "auteur": "OuattaraSeydou",
+    "plateforme": "Twitter",
+    "texte": "Mon frère étudie à l'UVBF et il adore ses cours de droit.",
+    "date_publication": "2025-09-15 12:23:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 101,
+    "retweets_partages": 28,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050312",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0122",
+    "auteur": "BintouZoungrana",
+    "plateforme": "Facebook",
+    "texte": "Certains professeurs sont très réceptifs et très ouverts d'autres ne se soucie même pas de si vous comprenez le cours ou pas s'ils ont une seule personne qui comprend c'est bon pour eux ",
+    "date_publication": "2025-09-15 13:39:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 110,
+    "retweets_partages": 9,
+    "commentaires": 19,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050329",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0165",
+    "auteur": "SalimataSawadogo",
+    "plateforme": "Twitter",
+    "texte": "La vie associative à l'UVBF rend vraiment l'expérience unique.",
+    "date_publication": "2025-09-15 14:24:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 85,
+    "retweets_partages": 14,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050341",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0141",
+    "auteur": "KaboréMamadou",
+    "plateforme": "Facebook",
+    "texte": "À l'UV-BF , j'apprécie beaucoup la qualité de l'enseignement ! Franchement, tout est bien , les enseignants sont ouverts, il ya un travail d'équipe, en tout cas en ce qui me concerne, mon groupe de travail et moi ! ",
+    "date_publication": "2025-09-15 16:25:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 55,
+    "retweets_partages": 26,
+    "commentaires": 24,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050355",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0178",
+    "auteur": "Mariam_Barro",
+    "plateforme": "Facebook",
+    "texte": "Les enseignants de l'UVBF sont passionnés et très disponibles.",
+    "date_publication": "2025-09-15 18:43:00",
+    "hashtags": [],
+    "likes": 68,
+    "retweets_partages": 12,
+    "commentaires": 8,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050363",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0258",
+    "auteur": "Kadiatou.Bancé",
+    "plateforme": "Twitter",
+    "texte": "Je me sens fier de représenter l'UVBF dans ma communauté.",
+    "date_publication": "2025-09-15 19:57:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 109,
+    "retweets_partages": 49,
+    "commentaires": 12,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050378",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0241",
+    "auteur": "MariamOuédraogo",
+    "plateforme": "Twitter",
+    "texte": "L'UVBF me donne l'espoir de réaliser mes rêves.",
+    "date_publication": "2025-09-15 23:08:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 44,
+    "retweets_partages": 0,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050387",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0207",
+    "auteur": "Yacouba_Tapsoba",
+    "plateforme": "Twitter",
+    "texte": "Je suis fière de faire partie de l'UVBF, les profs nous motivent vraiment.",
+    "date_publication": "2025-09-15 23:11:00",
+    "hashtags": [],
+    "likes": 66,
+    "retweets_partages": 13,
+    "commentaires": 17,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050396",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0037",
+    "auteur": "Ibrahim36",
+    "plateforme": "Facebook",
+    "texte": "L'explication des cours Tu peux pas suivre les cours et raté la moyenne ",
+    "date_publication": "2025-09-16 01:38:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 97,
+    "retweets_partages": 35,
+    "commentaires": 20,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050405",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0158",
+    "auteur": "Amadou.Ilboudo",
+    "plateforme": "Facebook",
+    "texte": "*L'accès des études universitaires pour tous et partout \n*Les enseignants fournissent beaucoup d'efforts pour un enseignement de qualité, ",
+    "date_publication": "2025-09-16 03:03:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 81,
+    "retweets_partages": 15,
+    "commentaires": 16,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050417",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0044",
+    "auteur": "Boureima_Zongo",
+    "plateforme": "Facebook",
+    "texte": "Le système d'enseignement ",
+    "date_publication": "2025-09-16 04:04:00",
+    "hashtags": [],
+    "likes": 99,
+    "retweets_partages": 4,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050423",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0187",
+    "auteur": "Yacouba_Sanogo",
+    "plateforme": "Facebook",
+    "texte": "Bravo aux étudiants de l'UVBF qui ont remporté le concours national de débat.",
+    "date_publication": "2025-09-16 06:11:00",
+    "hashtags": [],
+    "likes": 108,
+    "retweets_partages": 15,
+    "commentaires": 15,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050432",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0083",
+    "auteur": "YDiallo",
+    "plateforme": "Facebook",
+    "texte": "J'apprécie l'apprentissage en ligne ",
+    "date_publication": "2025-09-16 07:15:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 23,
+    "retweets_partages": 21,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050441",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0153",
+    "auteur": "CisséBintou",
+    "plateforme": "Twitter",
+    "texte": "L'enseignement. Ce modèle qui pousse l'étudiant à faire des recherches. Je suis mon propre enseignant ",
+    "date_publication": "2025-09-16 10:55:00",
+    "hashtags": [],
+    "likes": 16,
+    "retweets_partages": 42,
+    "commentaires": 17,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.050451",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0148",
+    "auteur": "Hamidou.Camara",
+    "plateforme": "Facebook",
+    "texte": "Je peux dire qu'il y a une facilité d'apprendre, d'étudier dans un meilleur cadre sans pression. Tout cela en faisant bien d'autres choses en parallèle. ",
+    "date_publication": "2025-09-16 11:17:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 28,
+    "retweets_partages": 37,
+    "commentaires": 22,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050464",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0134",
+    "auteur": "Kadiatou.Tapsoba",
+    "plateforme": "Facebook",
+    "texte": "La formation en ligne ",
+    "date_publication": "2025-09-16 12:02:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 145,
+    "retweets_partages": 22,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050470",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0031",
+    "auteur": "Aïcha_Touré",
+    "plateforme": "Facebook",
+    "texte": "La possibilité qu'elle nous offre de nous former en à distance, la disponibilité des enseignants à détailler les cours et à répondre aux différentes questions ",
+    "date_publication": "2025-09-16 13:38:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 0,
+    "retweets_partages": 6,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050483",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0107",
+    "auteur": "ANikièma",
+    "plateforme": "Facebook",
+    "texte": "Les enseignants ne maîtrisent pas bien l'outil informatique et compliquent la tâche lors des compositions, trop d'erreurs\n",
+    "date_publication": "2025-09-16 15:34:00",
+    "hashtags": [],
+    "likes": 9,
+    "retweets_partages": 15,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050494",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0156",
+    "auteur": "Zakaria_Koné",
+    "plateforme": "Facebook",
+    "texte": "Le fait que les cours sont dispensés en ligne et les docteurs aussi font tout possible pour nous les dispensés cela nous permet nous Étudiants de jongler d'autres métiers pour subvenir à nos besoins. . Cela est déjà un aspect positif.",
+    "date_publication": "2025-09-16 16:39:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 42,
+    "retweets_partages": 41,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050510",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0206",
+    "auteur": "Bintou.Compaoré",
+    "plateforme": "Facebook",
+    "texte": "Ma thèse à l'UVBF avance bien, merci à mon encadrant pour son soutien.",
+    "date_publication": "2025-09-16 17:08:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 147,
+    "retweets_partages": 46,
+    "commentaires": 10,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050519",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0193",
+    "auteur": "BoureimaBarro",
+    "plateforme": "Twitter",
+    "texte": "Le concert organisé par les étudiants de l'UVBF était incroyable !",
+    "date_publication": "2025-09-16 18:58:00",
+    "hashtags": [],
+    "likes": 85,
+    "retweets_partages": 1,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050527",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0229",
+    "auteur": "NikièmaMoussa",
+    "plateforme": "Twitter",
+    "texte": "Encore un cours déplacé à la dernière minute, ça m'énerve vraiment.",
+    "date_publication": "2025-09-16 21:45:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 118,
+    "retweets_partages": 8,
+    "commentaires": 11,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050536",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0108",
+    "auteur": "Fatima_Ouattara",
+    "plateforme": "Twitter",
+    "texte": "L'enseignement donné est de qualité vu la pertinence des prestations de nos Enseignants.",
+    "date_publication": "2025-09-16 23:47:00",
+    "hashtags": [],
+    "likes": 21,
+    "retweets_partages": 37,
+    "commentaires": 10,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050548",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0267",
+    "auteur": "ZongoIssouf",
+    "plateforme": "Twitter",
+    "texte": "Les labos de l'UVBF m'inspirent, malgré quelques manques de matériel.",
+    "date_publication": "2025-09-17 02:34:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 52,
+    "retweets_partages": 4,
+    "commentaires": 17,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.050556",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0101",
+    "auteur": "Safiatou_Touré",
+    "plateforme": "Twitter",
+    "texte": "Les cours en ligne",
+    "date_publication": "2025-09-17 02:40:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 72,
+    "retweets_partages": 1,
+    "commentaires": 14,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050562",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0115",
+    "auteur": "YYé",
+    "plateforme": "Twitter",
+    "texte": "L'accompagnement irréprochable du personnel envers les étudiants et étudiantes ",
+    "date_publication": "2025-09-17 03:19:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 130,
+    "retweets_partages": 14,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050572",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0224",
+    "auteur": "SanogoAssétou",
+    "plateforme": "Facebook",
+    "texte": "Je suis impressionnée par la passion des professeurs à l'UVBF.",
+    "date_publication": "2025-09-17 03:58:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 98,
+    "retweets_partages": 13,
+    "commentaires": 3,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050580",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0226",
+    "auteur": "Ibrahim_Sawadogo",
+    "plateforme": "Facebook",
+    "texte": "Difficile de rester motivé avec toutes ces coupures d'électricité à l'UVBF.",
+    "date_publication": "2025-09-17 04:52:00",
+    "hashtags": [],
+    "likes": 103,
+    "retweets_partages": 9,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050589",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0146",
+    "auteur": "DialloYacouba",
+    "plateforme": "Twitter",
+    "texte": "La qualité de l'enseignement. Et les politiques mises en place pour permettre à tous les étudiants d'avoir accès aux cours. ",
+    "date_publication": "2025-09-17 04:55:00",
+    "hashtags": [],
+    "likes": 110,
+    "retweets_partages": 18,
+    "commentaires": 20,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050600",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0186",
+    "auteur": "Fatoumata_Koné",
+    "plateforme": "Twitter",
+    "texte": "Heureux de voir que l'UVBF grandit et accueille de plus en plus d'étudiants étrangers.",
+    "date_publication": "2025-09-17 04:57:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 94,
+    "retweets_partages": 20,
+    "commentaires": 21,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050609",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0272",
+    "auteur": "SawadogoYacouba",
+    "plateforme": "Twitter",
+    "texte": "Toujours pas de réponse à ma demande de bourse, l'administration UVBF est trop lente.",
+    "date_publication": "2025-09-17 07:04:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 65,
+    "retweets_partages": 1,
+    "commentaires": 2,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.050618",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0082",
+    "auteur": "Hawa_Nikièma",
+    "plateforme": "Facebook",
+    "texte": "Problème de connexion Lors des évaluations. Retard des résultats ",
+    "date_publication": "2025-09-17 08:32:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 68,
+    "retweets_partages": 27,
+    "commentaires": 15,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.050629",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0093",
+    "auteur": "Salimata.Sawadogo",
+    "plateforme": "Facebook",
+    "texte": "Le fait d'avoir accès aux differents modules sur la plateforme à tout moment et la possibilité également de visionner les capsules déposés après les séquences synchrones.",
+    "date_publication": "2025-09-17 09:39:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 147,
+    "retweets_partages": 50,
+    "commentaires": 16,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050645",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0249",
+    "auteur": "KonéHamidou",
+    "plateforme": "Facebook",
+    "texte": "Les retards fréquents des profs à l'UVBF me démotivent.",
+    "date_publication": "2025-09-17 10:25:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 73,
+    "retweets_partages": 33,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050654",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0177",
+    "auteur": "MSow",
+    "plateforme": "Facebook",
+    "texte": "UVBF devrait investir davantage dans le sport universitaire.",
+    "date_publication": "2025-09-17 12:56:00",
+    "hashtags": [],
+    "likes": 113,
+    "retweets_partages": 2,
+    "commentaires": 11,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050662",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0121",
+    "auteur": "Aïcha62",
+    "plateforme": "Facebook",
+    "texte": "Les cours en ligne ",
+    "date_publication": "2025-09-17 14:35:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 123,
+    "retweets_partages": 23,
+    "commentaires": 15,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050668",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0176",
+    "auteur": "Zakaria97",
+    "plateforme": "Twitter",
+    "texte": "Étudier à l'UVBF a été la meilleure décision de ma vie.",
+    "date_publication": "2025-09-17 15:50:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 58,
+    "retweets_partages": 13,
+    "commentaires": 25,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050676",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0032",
+    "auteur": "BarroFatoumata",
+    "plateforme": "Twitter",
+    "texte": "Ils nous privent du foner",
+    "date_publication": "2025-09-17 18:09:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 74,
+    "retweets_partages": 28,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050684",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0130",
+    "auteur": "Mariama_Zongo",
+    "plateforme": "Facebook",
+    "texte": "Pour le système de cette université virtuelle n'est -ils toujours pas fiable ? ",
+    "date_publication": "2025-09-17 19:34:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 76,
+    "retweets_partages": 12,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050696",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0089",
+    "auteur": "CompaoréFatoumata",
+    "plateforme": "Twitter",
+    "texte": "L'apprentissage en ligne",
+    "date_publication": "2025-09-17 20:39:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 105,
+    "retweets_partages": 14,
+    "commentaires": 3,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050704",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0204",
+    "auteur": "FCissé",
+    "plateforme": "Twitter",
+    "texte": "Aujourd'hui à l'UVBF : panne de clim dans l'amphi, on a transpiré !",
+    "date_publication": "2025-09-17 23:36:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 102,
+    "retweets_partages": 0,
+    "commentaires": 21,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050712",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0063",
+    "auteur": "Ibrahim.Zongo",
+    "plateforme": "Twitter",
+    "texte": "J'apprécie le fait de pouvoir suivre les cours à distance. ",
+    "date_publication": "2025-09-18 00:20:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 147,
+    "retweets_partages": 44,
+    "commentaires": 6,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050720",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0085",
+    "auteur": "Rasmata58",
+    "plateforme": "Twitter",
+    "texte": "l'enseignement ",
+    "date_publication": "2025-09-18 03:01:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 77,
+    "retweets_partages": 44,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050730",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0192",
+    "auteur": "SowHamidou",
+    "plateforme": "Twitter",
+    "texte": "Les professeurs de l'UVBF devraient rendre les cours plus interactifs.",
+    "date_publication": "2025-09-18 05:43:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 150,
+    "retweets_partages": 2,
+    "commentaires": 11,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050739",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0045",
+    "auteur": "CamaraMariam",
+    "plateforme": "Facebook",
+    "texte": "Moi j'apprécie beaucoup l'UVBF.  À propos de leurs manières de nous dispenser les cours. C'est bien détaillée et aussi avec une bonne  explication. Les Docteurs sont bien déterminés et sa me plaît beaucoup. Parce qu'au début les gens nous disent autrement mais hélas c'est pas le cas",
+    "date_publication": "2025-09-18 08:52:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 107,
+    "retweets_partages": 14,
+    "commentaires": 13,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050756",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0185",
+    "auteur": "TraoréSalimata",
+    "plateforme": "Facebook",
+    "texte": "Les toilettes du bâtiment B de l'UVBF sont souvent sales, c'est dommage.",
+    "date_publication": "2025-09-18 10:06:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 123,
+    "retweets_partages": 25,
+    "commentaires": 10,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050766",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0200",
+    "auteur": "Souleymane25",
+    "plateforme": "Facebook",
+    "texte": "UVBF doit faire plus d'efforts pour inclure les étudiants handicapés.",
+    "date_publication": "2025-09-18 15:42:00",
+    "hashtags": [],
+    "likes": 97,
+    "retweets_partages": 48,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050774",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0106",
+    "auteur": "Fatoumata13",
+    "plateforme": "Twitter",
+    "texte": "La disponibilité des cours ",
+    "date_publication": "2025-09-18 19:10:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 89,
+    "retweets_partages": 10,
+    "commentaires": 9,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050781",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0244",
+    "auteur": "Karim_Sanogo",
+    "plateforme": "Twitter",
+    "texte": "Je me sens heureuse et motivée grâce aux clubs de l'UVBF.",
+    "date_publication": "2025-09-18 20:44:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 148,
+    "retweets_partages": 18,
+    "commentaires": 7,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050789",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0261",
+    "auteur": "Amadou_Cissé",
+    "plateforme": "Twitter",
+    "texte": "Je suis inspiré par l'esprit de solidarité à l'UVBF.",
+    "date_publication": "2025-09-18 21:06:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 63,
+    "retweets_partages": 0,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050797",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0164",
+    "auteur": "ICamara",
+    "plateforme": "Facebook",
+    "texte": "UVBF devrait améliorer la restauration universitaire, c'est cher et pas très bon.",
+    "date_publication": "2025-09-19 05:34:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 59,
+    "retweets_partages": 13,
+    "commentaires": 4,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050809",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0251",
+    "auteur": "Fatima_Ilboudo",
+    "plateforme": "Facebook",
+    "texte": "Je suis vidé, mais fier de mes progrès à l'UVBF.",
+    "date_publication": "2025-09-19 05:57:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 135,
+    "retweets_partages": 30,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050819",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0173",
+    "auteur": "Assétou.Traoré",
+    "plateforme": "Facebook",
+    "texte": "Je trouve que le campus de l'UVBF est vraiment agréable et bien entretenu.",
+    "date_publication": "2025-09-19 07:33:00",
+    "hashtags": [],
+    "likes": 4,
+    "retweets_partages": 7,
+    "commentaires": 22,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050830",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0010",
+    "auteur": "AwaYé",
+    "plateforme": "Facebook",
+    "texte": "Les cours sont en ligne donc on peut suivre les cours se déplacer, c'est vraiment intéressant ",
+    "date_publication": "2025-09-19 07:47:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 9,
+    "retweets_partages": 28,
+    "commentaires": 20,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050840",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0131",
+    "auteur": "ISanogo",
+    "plateforme": "Twitter",
+    "texte": "Son enseignement ",
+    "date_publication": "2025-09-19 12:08:00",
+    "hashtags": [],
+    "likes": 5,
+    "retweets_partages": 3,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050846",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0243",
+    "auteur": "Kadiatou_Compaoré",
+    "plateforme": "Facebook",
+    "texte": "UVBF doit vraiment revoir la gestion des inscriptions, ça décourage les étudiants.",
+    "date_publication": "2025-09-19 12:25:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 70,
+    "retweets_partages": 5,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050860",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0120",
+    "auteur": "MOuattara",
+    "plateforme": "Twitter",
+    "texte": "Le faites que tout le monde peut parler avec les professeurs ",
+    "date_publication": "2025-09-19 13:35:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 22,
+    "retweets_partages": 37,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050868",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0124",
+    "auteur": "Mariama_Koné",
+    "plateforme": "Facebook",
+    "texte": "La manière de l'enseignement ",
+    "date_publication": "2025-09-19 15:36:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 146,
+    "retweets_partages": 40,
+    "commentaires": 7,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050874",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0024",
+    "auteur": "Issouf77",
+    "plateforme": "Twitter",
+    "texte": "L'idée de la formation en ligne ",
+    "date_publication": "2025-09-19 18:59:00",
+    "hashtags": [],
+    "likes": 105,
+    "retweets_partages": 16,
+    "commentaires": 20,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050881",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0212",
+    "auteur": "CisséAwa",
+    "plateforme": "Facebook",
+    "texte": "Frustrée par le manque de communication entre les enseignants et les étudiants.",
+    "date_publication": "2025-09-19 19:49:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 19,
+    "retweets_partages": 3,
+    "commentaires": 9,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.050890",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0029",
+    "auteur": "AminataNikièma",
+    "plateforme": "Twitter",
+    "texte": "J' apprecis les cours car chaque cours à sont TD ",
+    "date_publication": "2025-09-19 20:51:00",
+    "hashtags": [],
+    "likes": 121,
+    "retweets_partages": 20,
+    "commentaires": 4,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050898",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0138",
+    "auteur": "IbrahimTouré",
+    "plateforme": "Facebook",
+    "texte": "On est fier d'appartenir à cette université : le professeur dispense le cours, fait tutorat, forum ouvert  avant les évaluations , c'est salutaire . Le don des mégas .  Certains professeurs patriotes font un travail formidable  lors des visio- conférences. ",
+    "date_publication": "2025-09-19 21:30:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 78,
+    "retweets_partages": 7,
+    "commentaires": 4,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050914",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0255",
+    "auteur": "ZongoSouleymane",
+    "plateforme": "Facebook",
+    "texte": "Chaque jour à l'UVBF me motive à devenir meilleur.",
+    "date_publication": "2025-09-19 22:51:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 105,
+    "retweets_partages": 10,
+    "commentaires": 14,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050924",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0117",
+    "auteur": "Souleymane92",
+    "plateforme": "Facebook",
+    "texte": "Les réclamations sur les moyens en S3 on est toujours sans nouvelle.\nEt aucune réponse à nos différents mails ",
+    "date_publication": "2025-09-19 23:03:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 120,
+    "retweets_partages": 41,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050934",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0057",
+    "auteur": "Salimata_Kaboré",
+    "plateforme": "Twitter",
+    "texte": "La possibilité et la flexibilité de suivre les cours partout au Burkina",
+    "date_publication": "2025-09-19 23:53:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 121,
+    "retweets_partages": 1,
+    "commentaires": 19,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050944",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0169",
+    "auteur": "Ibrahim91",
+    "plateforme": "Twitter",
+    "texte": "UVBF doit améliorer la communication avec les parents et étudiants.",
+    "date_publication": "2025-09-20 07:10:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 15,
+    "retweets_partages": 15,
+    "commentaires": 14,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050952",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0256",
+    "auteur": "TraoréSeydou",
+    "plateforme": "Twitter",
+    "texte": "Je suis fatiguée mais satisfaite de mes progrès à l'UVBF.",
+    "date_publication": "2025-09-20 09:38:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 17,
+    "retweets_partages": 11,
+    "commentaires": 18,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050960",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0268",
+    "auteur": "Safiatou.Sana",
+    "plateforme": "Facebook",
+    "texte": "Je suis fatiguée mais satisfaite de mes cours à l'UVBF.",
+    "date_publication": "2025-09-20 11:00:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 135,
+    "retweets_partages": 22,
+    "commentaires": 24,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.050967",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0104",
+    "auteur": "AZoungrana",
+    "plateforme": "Twitter",
+    "texte": "L'enseignement est compréhensif.",
+    "date_publication": "2025-09-20 13:20:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 150,
+    "retweets_partages": 10,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050974",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0264",
+    "auteur": "Fatima94",
+    "plateforme": "Twitter",
+    "texte": "UVBF me pousse à donner le meilleur de moi-même, même si c'est difficile.",
+    "date_publication": "2025-09-20 13:32:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 72,
+    "retweets_partages": 34,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.050985",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0078",
+    "auteur": "AminataBarry",
+    "plateforme": "Facebook",
+    "texte": "Bonsoir ! Vraiment j'apprécie l'université. Elle a une bonne qualité de formation. Et merci à toutes les membres ainsi que les docteurs pour ce qu'ils font pour nous.",
+    "date_publication": "2025-09-20 14:18:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 53,
+    "retweets_partages": 19,
+    "commentaires": 18,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051004",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0271",
+    "auteur": "Issouf.Nikièma",
+    "plateforme": "Facebook",
+    "texte": "Je souhaiterais que l'UVBF simplifie les démarches administratives en ligne.",
+    "date_publication": "2025-09-20 14:23:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 78,
+    "retweets_partages": 46,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051017",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0286",
+    "auteur": "Kadiatou_Touré",
+    "plateforme": "Facebook",
+    "texte": "Je vois une évolution positive, l'UVBF communique mieux qu'avant.",
+    "date_publication": "2025-09-20 14:28:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 127,
+    "retweets_partages": 12,
+    "commentaires": 18,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051028",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0236",
+    "auteur": "Abdoul.Traoré",
+    "plateforme": "Twitter",
+    "texte": "Je me sens écoutée par mes professeurs à l'UVBF, ça me rassure.",
+    "date_publication": "2025-09-20 14:29:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 18,
+    "retweets_partages": 8,
+    "commentaires": 24,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051036",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0161",
+    "auteur": "MamadouZongo",
+    "plateforme": "Facebook",
+    "texte": "La volonté des enseignants à nous faire comprendre ",
+    "date_publication": "2025-09-20 16:22:00",
+    "hashtags": [],
+    "likes": 67,
+    "retweets_partages": 9,
+    "commentaires": 14,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051045",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0168",
+    "auteur": "RSawadogo",
+    "plateforme": "Twitter",
+    "texte": "UVBF a changé ma vie, merci aux professeurs et camarades.",
+    "date_publication": "2025-09-20 17:04:00",
+    "hashtags": [],
+    "likes": 50,
+    "retweets_partages": 16,
+    "commentaires": 14,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051053",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0160",
+    "auteur": "YéMariama",
+    "plateforme": "Facebook",
+    "texte": "La qualité de l’enseignement à distance ",
+    "date_publication": "2025-09-20 17:35:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 102,
+    "retweets_partages": 7,
+    "commentaires": 1,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051062",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0118",
+    "auteur": "SawadogoKadiatou",
+    "plateforme": "Twitter",
+    "texte": "La flexibilité de l'enseignement. C'est sans pression. Que U sois fonctionnaire , entrepreneur... Tu apprend sans pression",
+    "date_publication": "2025-09-20 17:37:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 52,
+    "retweets_partages": 5,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051073",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0062",
+    "auteur": "Issouf40",
+    "plateforme": "Facebook",
+    "texte": "L'octroi des puces de connexion ",
+    "date_publication": "2025-09-20 18:22:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 63,
+    "retweets_partages": 7,
+    "commentaires": 25,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051079",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0073",
+    "auteur": "FatoumataOuattara",
+    "plateforme": "Twitter",
+    "texte": "Les cours à distance ",
+    "date_publication": "2025-09-20 18:44:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 6,
+    "retweets_partages": 23,
+    "commentaires": 3,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051085",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0125",
+    "auteur": "Abdoul.Cissé",
+    "plateforme": "Facebook",
+    "texte": "La manière de dispenser les cours ",
+    "date_publication": "2025-09-20 19:24:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 136,
+    "retweets_partages": 13,
+    "commentaires": 4,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051092",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0034",
+    "auteur": "Fatima29",
+    "plateforme": "Twitter",
+    "texte": "- L'indifférence des responsables face aux difficultés que rencontre leurs étudiants.\n-La manière d'évaluer les étudiants.\n- le fait d'abandonner les études à eux seuls , les rendant paresseux.\n- la baisse du niveau des étudiants......",
+    "date_publication": "2025-09-21 00:49:00",
+    "hashtags": [],
+    "likes": 12,
+    "retweets_partages": 39,
+    "commentaires": 2,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051109",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0238",
+    "auteur": "Hamidou19",
+    "plateforme": "Twitter",
+    "texte": "Fatigué du manque d'organisation, ça nuit à notre moral à l'UVBF.",
+    "date_publication": "2025-09-21 00:59:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 64,
+    "retweets_partages": 29,
+    "commentaires": 4,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.051119",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0049",
+    "auteur": "Seydou.Compaoré",
+    "plateforme": "Facebook",
+    "texte": "La formation même à distance, la disposition des étudiants aux ressources nécessaires liées aux différents cours",
+    "date_publication": "2025-09-21 02:13:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 97,
+    "retweets_partages": 19,
+    "commentaires": 1,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051129",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0182",
+    "auteur": "Seydou_Yé",
+    "plateforme": "Twitter",
+    "texte": "UVBF attire de plus en plus d'étudiants étrangers chaque année.",
+    "date_publication": "2025-09-21 05:13:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 57,
+    "retweets_partages": 21,
+    "commentaires": 0,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051136",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0137",
+    "auteur": "Yacouba39",
+    "plateforme": "Facebook",
+    "texte": "A ce niveau,Ah l' UV-BF permet à l'étudiant de l'entreprendre. Elle permet aussi à L'ÉTUDIANT de suivre ses cours dans les bonnes conditions. Les modules sont à télécharger donc moins de dépenses.\nJ'apprécie beaucoup certains docteur, ils donnent une formation de qualités.\n",
+    "date_publication": "2025-09-21 05:30:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 32,
+    "retweets_partages": 1,
+    "commentaires": 13,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051154",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0109",
+    "auteur": "Fatima81",
+    "plateforme": "Twitter",
+    "texte": "La dispensation des cours, l'organisation des cours en donnant des exercices et des devoirs en ligne, les devoirs sur table, la qualités de professeurs, l'aide au profit des études en matière d'ordinateur,de puces,etc...",
+    "date_publication": "2025-09-21 05:37:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 34,
+    "retweets_partages": 4,
+    "commentaires": 15,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051170",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0054",
+    "auteur": "SBancé",
+    "plateforme": "Facebook",
+    "texte": "J'apprécie cette manière à eux de dispenser les cours qui se font uniquement en ligne et aussi la disponibilité des enseignants et leurs amples renseignements et interactions sur les préoccupations des apprenants que nous sommes.",
+    "date_publication": "2025-09-21 07:19:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 60,
+    "retweets_partages": 23,
+    "commentaires": 20,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051186",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0091",
+    "auteur": "OBancé",
+    "plateforme": "Facebook",
+    "texte": "Le programme de l'université est structuré et bien organisé, ce qui nous permet de suivre les cours à notre propre rythme. Cela facilite grandement notre apprentissage et nous aide à atteindre nos objectifs académiques. Les enseignants, dotés d'une grande patience pédagogique, excellent dans leurs explications et offrent un enseignement de qualité. De plus, nous avons la possibilité de mener des recherches approfondies, ce qui est très enrichissant.",
+    "date_publication": "2025-09-21 12:45:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 33,
+    "retweets_partages": 7,
+    "commentaires": 12,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051211",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0112",
+    "auteur": "ZongoSouleymane",
+    "plateforme": "Facebook",
+    "texte": "l'UV -BF est bien organisée,les méthodes d'enseignement utilisées par les enseignants chercheurs sont très flexibles.",
+    "date_publication": "2025-09-21 13:13:00",
+    "hashtags": [
+      "#UniversitéVirtuelle",
+      "#UVBF",
+      "#Education"
+    ],
+    "likes": 140,
+    "retweets_partages": 45,
+    "commentaires": 12,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051222",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0213",
+    "auteur": "Fatima88",
+    "plateforme": "Facebook",
+    "texte": "Je rêve de décrocher un stage grâce à l'UVBF, j'ai confiance en ses partenariats.",
+    "date_publication": "2025-09-21 18:53:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 123,
+    "retweets_partages": 0,
+    "commentaires": 3,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.051232",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0155",
+    "auteur": "Moussa14",
+    "plateforme": "Twitter",
+    "texte": "L'université virtuelle formation de qualité pour tous",
+    "date_publication": "2025-09-21 19:05:00",
+    "hashtags": [
+      "#UVBF"
+    ],
+    "likes": 69,
+    "retweets_partages": 18,
+    "commentaires": 25,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051239",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0100",
+    "auteur": "AKaboré",
+    "plateforme": "Twitter",
+    "texte": "La plateforme UVBF est vraiment pratique pour réviser à n’importe quel moment. Je peux revoir les vidéos des cours plusieurs fois, c’est un vrai atout pour comprendre.",
+    "date_publication": "2025-09-22 08:15:00",
+    "hashtags": [
+      "#UVBF",
+      "#Elearning"
+    ],
+    "likes": 45,
+    "retweets_partages": 12,
+    "commentaires": 8,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051262",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0101",
+    "auteur": "MTraoré",
+    "plateforme": "Facebook",
+    "texte": "J’ai eu quelques difficultés de connexion lors de mes cours en ligne. Ce serait bien que l’UVBF améliore la stabilité technique de la plateforme.",
+    "date_publication": "2025-09-22 09:32:00",
+    "hashtags": [
+      "#UVBF",
+      "#Connexion"
+    ],
+    "likes": 12,
+    "retweets_partages": 3,
+    "commentaires": 6,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051275",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0102",
+    "auteur": "SKabore",
+    "plateforme": "Instagram",
+    "texte": "Ce que j’aime le plus à l’UVBF, c’est la disponibilité des enseignants qui prennent vraiment le temps de répondre aux questions.",
+    "date_publication": "2025-09-22 10:02:00",
+    "hashtags": [
+      "#UVBF",
+      "#UniversitéVirtuelle"
+    ],
+    "likes": 70,
+    "retweets_partages": 15,
+    "commentaires": 22,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051287",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0103",
+    "auteur": "ADiallo",
+    "plateforme": "Twitter",
+    "texte": "Franchement, les retards fréquents dans la mise en ligne des supports de cours commencent à décourager certains étudiants.",
+    "date_publication": "2025-09-22 11:17:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso"
+    ],
+    "likes": 8,
+    "retweets_partages": 1,
+    "commentaires": 3,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051298",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0104",
+    "auteur": "NKone",
+    "plateforme": "Facebook",
+    "texte": "Je remercie l’UVBF pour l’organisation des webinaires. Cela permet de rencontrer virtuellement des enseignants de qualité.",
+    "date_publication": "2025-09-22 12:40:00",
+    "hashtags": [
+      "#UVBF",
+      "#Webinaire"
+    ],
+    "likes": 56,
+    "retweets_partages": 18,
+    "commentaires": 14,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051309",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0105",
+    "auteur": "PBouda",
+    "plateforme": "Twitter",
+    "texte": "Les frais de connexion Internet restent un vrai problème pour suivre correctement les cours de l’UVBF. Beaucoup d’étudiants abandonnent pour cette raison.",
+    "date_publication": "2025-09-22 13:55:00",
+    "hashtags": [
+      "#UVBF",
+      "#Difficultés"
+    ],
+    "likes": 10,
+    "retweets_partages": 4,
+    "commentaires": 9,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.051323",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0106",
+    "auteur": "RSawadogo",
+    "plateforme": "Facebook",
+    "texte": "Un grand bravo à l’administration de l’UVBF pour la rapidité dans le traitement des demandes académiques.",
+    "date_publication": "2025-09-22 15:10:00",
+    "hashtags": [
+      "#UVBF",
+      "#Bravo"
+    ],
+    "likes": 84,
+    "retweets_partages": 27,
+    "commentaires": 30,
+    "sentiment": "positif",
+    "date_annotation": "2025-10-08T15:41:52.051340",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0107",
+    "auteur": "BFofana",
+    "plateforme": "Twitter",
+    "texte": "Je trouve que la plateforme manque encore d’ergonomie. L’interface utilisateur pourrait être simplifiée pour aider les nouveaux inscrits.",
+    "date_publication": "2025-09-22 16:22:00",
+    "hashtags": [
+      "#UVBF",
+      "#Interface"
+    ],
+    "likes": 20,
+    "retweets_partages": 5,
+    "commentaires": 7,
+    "sentiment": "negatif",
+    "date_annotation": "2025-10-08T15:41:52.051356",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0108",
+    "auteur": "TTapsoba",
+    "plateforme": "Instagram",
+    "texte": "C’est motivant de voir l’UVBF nous donner accès à des ressources internationales. On se sent connecté au monde entier depuis le Burkina.",
+    "date_publication": "2025-09-22 17:40:00",
+    "hashtags": [
+      "#UVBF",
+      "#BurkinaFaso",
+      "#Education"
+    ],
+    "likes": 92,
+    "retweets_partages": 33,
+    "commentaires": 25,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051368",
+    "annotation_auto": true
+  },
+  {
+    "id": "UVBF_0109",
+    "auteur": "KDiarra",
+    "plateforme": "Facebook",
+    "texte": "Je pense que l’université gagnerait à multiplier les sessions en présentiel pour renforcer la proximité avec les étudiants.",
+    "date_publication": "2025-09-22 18:12:00",
+    "hashtags": [
+      "#UVBF",
+      "#Suggestion"
+    ],
+    "likes": 16,
+    "retweets_partages": 2,
+    "commentaires": 5,
+    "sentiment": "neutre",
+    "date_annotation": "2025-10-08T15:41:52.051380",
+    "annotation_auto": true
+  }
+]

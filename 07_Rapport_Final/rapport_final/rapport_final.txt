@@ -1,0 +1,44 @@
+======================================================================
+RAPPORT FINAL - ANALYSE DE SENTIMENT UVBF
+======================================================================
+
+
+
+----------------------------------------------------------------------
+1. DONNÉES COLLECTÉES ET ANNOTÉES
+----------------------------------------------------------------------
+Total de publications : 296
+Publications annotées : 296
+
+Répartition des sentiments :
+  Positif : 26.4%
+  Négatif : 7.8%
+  Neutre  : 65.9%
+
+ TAUX DE COMMENTAIRES SUR L'UVBF:
+   Positifs: 26.4%
+   Négatifs: 7.8%
+
+----------------------------------------------------------------------
+2. PERFORMANCE DU MODÈLE
+----------------------------------------------------------------------
+Meilleur modèle : Régression Logistique Optimisée
+Exactitude : 81.67%
+
+----------------------------------------------------------------------
+3. RECOMMANDATIONS
+----------------------------------------------------------------------
+
+Points forts identifiés :
+  ✓ Qualité de l'enseignement
+  ✓ Flexibilité de la formation
+  ✓ Innovation pédagogique
+
+Axes d'amélioration :
+  • Infrastructure technique (priorité haute)
+  • Accessibilité financière (priorité moyenne)
+  • Support client (priorité moyenne)
+
+======================================================================
+FIN DU RAPPORT
+======================================================================

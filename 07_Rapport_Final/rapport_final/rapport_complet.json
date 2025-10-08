@@ -1,0 +1,18 @@
+{
+  "date_generation": "2025-10-08 17:31:11",
+  "sections": {
+    "donnees": {
+      "total": 296,
+      "annotees": 296,
+      "sentiments": {
+        "positif": 26.351351351351347,
+        "negatif": 7.77027027027027,
+        "neutre": 65.87837837837837
+      }
+    },
+    "performance": {
+      "meilleur_modele": "Régression Logistique Optimisée",
+      "exactitude": 0.8166666666666667
+    }
+  }
+}

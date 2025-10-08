@@ -1,0 +1,4 @@
+Modèle,Exactitude
+BERT + Régression Logistique,0.7833333333333333
+BERT + SVM RBF,0.65
+BERT + Random Forest,0.7
